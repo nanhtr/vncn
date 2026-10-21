@@ -151,6 +151,28 @@ def parse_slide(block, part):
     }
 
 
+def parse_easy(text):
+    """Đọc bản dễ hiểu cho người mới (06_BAN_DE_HIEU_CHO_NGUOI_MOI.md)."""
+    out = {}
+    for blk in re.split(r"\n(?=## \d+ \| )", text)[1:]:
+        lines = blk.strip().split("\n")
+        n, title = re.match(r"## (\d+) \| (.*)", lines[0]).groups()
+        f = {}
+        for l in lines[1:]:
+            k, sep, v = l.partition(": ")
+            if sep:
+                f[k.strip()] = v.strip()
+        esc = lambda x: html.escape(x.strip(), quote=False)
+        out[int(n)] = {
+            "title": esc(title), "noi": esc(f["nói"]), "giong": esc(f["giống"]), "so_": esc(f["sợ"]),
+            "buoc": [esc(x) for x in f["bước"].split("||")],
+            "so": [[esc(a) for a in x.split("|", 1)] for x in f["số"].split("||")],
+            "tu": [[esc(a) for a in x.split("=", 1)] for x in f["từ"].split("||")],
+        }
+    assert len(out) == 40, len(out)
+    return out
+
+
 def main():
     slides, parts, appendix = [], [], ""
     for f in PART_FILES:
@@ -172,6 +194,9 @@ def main():
         "itp": appendix, "corr": md([l for l in corr if l.startswith("|") or l.startswith(">")]),
     }
     assert len(slides) == 40, len(slides)
+    easy = parse_easy((HERE / "06_BAN_DE_HIEU_CHO_NGUOI_MOI.md").read_text(encoding="utf-8"))
+    for s in slides:
+        s["easy"] = easy[s["n"]]
     payload = json.dumps(data, ensure_ascii=False).replace("</", "<\\/")
     tpl = (HERE / "slides_template.html").read_text(encoding="utf-8")
     fragment = tpl.replace("/*__DATA__*/", payload)

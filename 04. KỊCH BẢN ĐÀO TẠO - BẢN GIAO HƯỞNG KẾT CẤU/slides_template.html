@@ -125,6 +125,68 @@ dialog::backdrop{background:rgba(2,8,12,.7)}
   .brand{font-size:15px}
   .bul li{font-size:15px}
 }
+
+/* Bản cho người mới */
+body{font-size:16px}
+.road{display:grid;grid-template-columns:repeat(5,minmax(0,1fr));gap:6px;margin-bottom:18px}
+.road button{display:flex;gap:8px;align-items:center;background:var(--panel);border:1px solid var(--line);border-radius:8px;padding:8px 10px;cursor:pointer;text-align:left;font-size:13px;color:var(--mute);min-width:0}
+.road button b{flex:none;width:24px;height:24px;border-radius:50%;display:grid;place-items:center;background:var(--panel2);color:var(--fg);font-size:13px}
+.road button span{overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.road button.on{border-color:var(--gold);color:var(--fg)}
+.road button.on b{background:var(--gold);color:#2A2000}
+.easy{display:flex;flex-direction:column;gap:22px;max-width:1240px;margin:0 auto}
+.ehead{display:flex;flex-direction:column;gap:6px}
+.ehead h2{font-size:clamp(28px,4vw,46px)}
+.egrid{display:grid;grid-template-columns:minmax(0,1.15fr) minmax(0,1fr);gap:24px;align-items:start}
+.cap{display:flex;gap:12px;align-items:flex-start;background:var(--panel2);border:1px solid var(--line);border-radius:10px;padding:12px 14px;min-height:72px}
+.cap span{flex:none;font-family:var(--f-disp);font-weight:700;font-size:22px;color:var(--gold);line-height:1.1}
+.cap p{margin:0;font-size:19px;line-height:1.45;font-weight:500}
+.steps{list-style:none;margin:0;padding:0;display:flex;flex-direction:column;gap:4px}
+.steps li{display:flex;gap:10px;align-items:flex-start;padding:8px 10px;border-radius:8px;cursor:pointer;color:var(--mute);border:1px solid transparent}
+.steps li b{flex:none;width:24px;height:24px;border-radius:50%;display:grid;place-items:center;background:var(--panel2);font-size:13px;color:var(--fg)}
+.steps li.on{background:var(--panel);border-color:var(--line);color:var(--fg)}
+.steps li.on b{background:var(--wire);color:#00262B}
+.steps li.done b{background:var(--pass);color:#00230F}
+.box{border-radius:10px;padding:14px 16px;border:1px solid var(--line);background:var(--panel)}
+.box h3{margin:0 0 6px;font-family:var(--f-disp);font-size:20px;letter-spacing:.02em}
+.box p{margin:0;font-size:17px;line-height:1.6}
+.box.say h3{color:var(--wire)}
+.box.like h3{color:var(--gold)}
+.box.warn{background:rgba(255,77,77,.07);border-color:rgba(255,77,77,.35)}
+.box.warn h3{color:#FF8A80}
+.sh{font-family:var(--f-disp);font-size:22px;margin:0 0 10px;letter-spacing:.02em}
+.nums{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:10px}
+.ncard{background:var(--panel);border:1px solid var(--line);border-radius:10px;padding:14px 16px;display:flex;flex-direction:column;gap:4px}
+.ncard strong{font-family:var(--f-disp);font-size:32px;color:var(--gold);line-height:1.05}
+.ncard span{color:var(--fg);font-size:15px}
+.gl{display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:10px;margin:0}
+.gl>div{background:var(--panel);border:1px solid var(--line);border-radius:10px;padding:12px 14px}
+.gl dt{font-weight:600;color:var(--wire);font-size:16px}
+.gl dd{margin:4px 0 0;font-size:15px}
+.dict .lnk{margin-top:8px;background:none;border:0;color:var(--gold);cursor:pointer;padding:0;font-size:13px;text-decoration:underline}
+.pro{border:1px dashed var(--line);border-radius:10px;padding:0 14px}
+.pro summary{cursor:pointer;padding:12px 0;color:var(--mute);font-size:14px}
+.pro summary em{font-style:normal;opacity:.8}
+.proin{display:flex;flex-direction:column;gap:12px;padding-bottom:14px}
+.pmeta{margin:0;font-family:var(--f-mono);font-size:12px;color:var(--mute)}
+.pager{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1fr);gap:10px;margin-top:6px}
+.pager button{display:flex;flex-direction:column;gap:2px;text-align:left;background:var(--panel);border:1px solid var(--line);border-radius:10px;padding:12px 14px;cursor:pointer;font-size:15px}
+.pager button small{color:var(--mute);font-size:12px}
+.pager button.nx{text-align:right;border-color:var(--wire)}
+.pager button:hover{border-color:var(--gold)}
+.btn.big{padding:10px 16px;font-size:15px}
+.stage.tall{aspect-ratio:4/3}
+.hint{color:var(--mute);font-size:14px;margin:0}
+.howto{margin:6px 0 0;padding-left:1.2em;font-size:16px;display:flex;flex-direction:column;gap:4px}
+.phases{list-style:none;margin:0;padding:0;display:grid;gap:8px}
+.phases button{width:100%;display:grid;grid-template-columns:40px minmax(0,1fr) auto;gap:12px;align-items:center;text-align:left;background:var(--panel);border:1px solid var(--line);border-radius:10px;padding:12px 14px;cursor:pointer}
+.phases button:hover{border-color:var(--wire)}
+.phases b{width:34px;height:34px;border-radius:50%;display:grid;place-items:center;background:var(--gold);color:#2A2000;font-size:16px}
+.phases strong{display:block;font-size:17px}
+.phases span{color:var(--mute);font-size:14px}
+.phases em{font-style:normal;font-family:var(--f-mono);font-size:12px;color:var(--mute)}
+@media (max-width:980px){.egrid{grid-template-columns:minmax(0,1fr)}.road span{display:none}.road button{justify-content:center}}
+@media (max-width:520px){.pager{grid-template-columns:minmax(0,1fr)}.pager button.nx{text-align:left}.phases button{grid-template-columns:36px minmax(0,1fr)}.phases em{display:none}.cap p{font-size:17px}}
 @media (prefers-reduced-motion:reduce){.prog{transition:none}}
 </style>
 <!--BODY-->
@@ -149,6 +211,7 @@ dialog::backdrop{background:rgba(2,8,12,.7)}
 (()=>{
 const D=JSON.parse(document.getElementById('data').textContent);
 const S=D.slides, TOTAL=S.length;
+const SPEED=.5;
 const RM=matchMedia('(prefers-reduced-motion: reduce)').matches;
 const $=s=>document.querySelector(s);
 const main=$('#main');
@@ -164,7 +227,7 @@ const seg=(p,a,b)=>cl((p-a)/(b-a));
 const ez=x=>x<.5?4*x*x*x:1-Math.pow(-2*x+2,3)/2;
 function rng(s){return()=>{s|=0;s=s+0x6D2B79F5|0;let t=Math.imul(s^s>>>15,1|s);t=t+Math.imul(t^t>>>7,61|t)^t;return((t^t>>>14)>>>0)/4294967296}}
 function ln(g,a,b,c,d){g.beginPath();g.moveTo(a,b);g.lineTo(c,d);g.stroke()}
-function tx(g,s,x,y,col=C.text,sz=11,al='left',w=400){g.fillStyle=col;g.font=`${w} ${sz}px "JetBrains Mono",monospace`;g.textAlign=al;g.textBaseline='middle';g.fillText(s,x,y)}
+function tx(g,s,x,y,col=C.text,sz=11,al='left',w=400){if(s[0]!=='§')return;s=s.slice(1);sz=Math.max(sz,13);g.fillStyle=col;g.font=`${w} ${sz}px "Be Vietnam Pro",system-ui,sans-serif`;g.textAlign=al;g.textBaseline='middle';g.fillText(s,x,y)}
 function rr(g,x,y,w,h,r){g.beginPath();g.roundRect?g.roundRect(x,y,w,h,r):g.rect(x,y,w,h)}
 
 /* ---------- Tháp dạng wireframe ---------- */
@@ -185,8 +248,8 @@ function ground(g,w,G){g.strokeStyle=C.wire;g.globalAlpha=.6;ln(g,0,G.by,w,G.by)
 const SC={};
 SC.strata=(g,w,h,t,Dm,o)=>{
   const p=t/Dm,gy=h*.14,dep=d=>gy+(h-gy)*d;
-  const L=[[.08,'#8D6E63','Đất lấp'],[.28,'#5D6D7E','Sét yếu N=0–3'],[.46,'#D4B483','Cát mịn N=12–25'],[.62,'#A1887F','Sét cứng N=25–40'],[.8,'#BCAAA4','Cuội sỏi N>50'],[1,'#37474F','Đá gốc']];
-  let y0=gy;for(const[d,c,n]of L){const y1=dep(d);g.fillStyle=c;g.globalAlpha=.42;g.fillRect(0,y0,w,y1-y0);g.globalAlpha=1;tx(g,n,8,y0+11,'#E8F0F2',10);y0=y1}
+  const L=[[.08,'#8D6E63','Đất lấp'],[.28,'#5D6D7E','Bùn sét mềm (yếu)'],[.46,'#D4B483','Cát'],[.62,'#A1887F','Sét cứng'],[.8,'#BCAAA4','Sỏi cuội'],[1,'#37474F','Đá cứng (đá gốc)']];
+  let y0=gy;for(const[d,c,n]of L){const y1=dep(d);g.fillStyle=c;g.globalAlpha=.42;g.fillRect(0,y0,w,y1-y0);g.globalAlpha=1;tx(g,'§'+n,8,y0+12,'#E8F0F2',13);y0=y1}
   g.strokeStyle=C.wire;g.lineWidth=1.5;ln(g,0,gy,w,gy);g.lineWidth=1;
   if(o.drill){
     const x=w*.5,a=ez(seg(p,.23,.5)),yb=dep(.97*a);
@@ -237,7 +300,7 @@ SC.tower=(g,w,h,t,Dm,o)=>{
     return}
   ground(g,w,G);
   if(m==='build'){const up=seg(p,0,.95)*G.n;tower(g,G,up);const k=Math.floor(up);if(k<G.n){g.fillStyle='rgba(255,196,0,.25)';g.fillRect(G.cx-G.tw/2,fy(G,k+1),G.tw*((t%3000)/3000),fy(G,k)-fy(G,k+1))}
-    tx(g,`TẦNG ${Math.min(55,Math.round(up/G.n*55))} · NGÀY D${1+Math.floor(t/750)%4}`,G.cx+G.tw/2+14,fy(G,Math.min(k,G.n)),C.gold,11)}
+    tx(g,`§Tầng ${Math.min(55,Math.round(up/G.n*55))}`,G.cx+G.tw/2+14,fy(G,Math.min(k,G.n)),C.gold,11)}
   if(m==='clash'){tower(g,G,G.n,{col:'rgba(0,229,255,.5)'});const a=seg(p,.3,.5);const cols=['#0057B8','#D32F2F','#FBC02D','#90A4AE','#00ACC1'];
     cols.forEach((c,i)=>{g.strokeStyle=c;g.lineWidth=2;g.globalAlpha=a;const x=G.cx-G.tw/2+G.tw*(i+.6)/5.4;ln(g,x,G.by,x,G.by-(G.by-G.ty)*a);g.globalAlpha=1;g.lineWidth=1});
     const r=rng(3),pts=[...Array(37)].map(()=>[G.cx+(r()-.5)*G.tw*.95,G.by-(G.by-G.ty)*r()]);const fixed=seg(p,.6,.87)*37;
@@ -275,7 +338,7 @@ SC.tower=(g,w,h,t,Dm,o)=>{
   if(m==='fea'){const sw=Math.sin(t/900)*2;tower(g,G,G.n,{off:u=>sw*u*u*4,fill:i=>turbo(.62*(1-i/G.n)+.1+.06*Math.sin(i*1.3+t/600))});
     const cx=w*.85;for(let i=0;i<10;i++){g.fillStyle=turbo(i/9);g.fillRect(cx,G.by-(i+1)*(G.by-G.ty)/10,12,(G.by-G.ty)/10)}tx(g,'η=1',cx+16,G.ty+8,C.text,10);tx(g,'0',cx+16,G.by-8,C.text,10);
     tx(g,p>.79?'STRUCTURAL SAFETY CERTIFIED':`f₁ FEA 0,182 Hz · đo 0,191 Hz (+4,9%)`,12,h*.06,p>.79?C.pass:C.wire,11,'left',600)}
-  if(m==='ladder'){tower(g,G,G.n);const lim=fy(G,G.n*.25);g.strokeStyle=C.warn;g.setLineDash([8,5]);ln(g,0,lim,w,lim);g.setLineDash([]);tx(g,'Tầm với xe thang 54 m',8,lim-10,C.warn,10);
+  if(m==='ladder'){tower(g,G,G.n);const lim=fy(G,G.n*.25);g.strokeStyle=C.warn;g.setLineDash([8,5]);ln(g,0,lim,w,lim);g.setLineDash([]);tx(g,'§Xe thang chỉ với tới đây (~54 m)',8,lim-12,C.warn,13);
     const a=seg(p,.17,.37);g.strokeStyle='#ECEFF1';g.lineWidth=3;ln(g,G.cx-G.tw*1.8,G.by-8,G.cx-G.tw*1.8+(G.tw*1.2)*a,G.by-8-(G.by-lim)*a);g.lineWidth=1;
     g.fillStyle='#C62828';g.fillRect(G.cx-G.tw*2.2,G.by-14,44,12);g.fillRect(G.cx+G.tw,G.by-14,44,12);
     if(p>.37){const pl=.5+.5*Math.sin(t/200);g.fillStyle=`rgba(211,47,47,${.25+pl*.3})`;g.fillRect(G.cx-4,G.ty,8,lim-G.ty);for(let i=8;i<G.n;i+=6){g.fillStyle=`rgba(149,117,205,${.3+pl*.3})`;g.fillRect(G.cx-G.tw/2,fy(G,i+1),G.tw,fy(G,i)-fy(G,i+1))}}
@@ -283,25 +346,25 @@ SC.tower=(g,w,h,t,Dm,o)=>{
   if(m==='elevator'){const sx=w*.42,sw2=w*.16;g.strokeStyle=C.dim;for(let i=0;i<=G.n;i++)ln(g,sx,fy(G,i),sx+sw2,fy(G,i));g.strokeStyle=C.wire;g.strokeRect(sx,G.ty,sw2,G.by-G.ty);
     let u=ez(seg(p,.37,.66));if(p>.66&&p<.83)u=1-seg(p,.66,.83)*.04;if(p>=.83)u=ez(seg(p,.83,.96));const y=G.by-(G.by-G.ty)*u;
     const dark=p>.66&&p<.66+.0217;g.fillStyle=dark?'#333':C.gold;g.fillRect(sx+6,y-22,sw2-12,20);
-    tx(g,`TẦNG ${String(1+Math.round(u*54)).padStart(2,'0')} · ${(p>.37&&p<.66?7:0).toFixed(1)} m/s`,sx+sw2+14,y-12,C.gold,12,'left',600);
+    tx(g,`§Tầng ${String(1+Math.round(u*54)).padStart(2,'0')} · ${(p>.37&&p<.66?7:0).toFixed(1)} m/s`,sx+sw2+14,y-12,C.gold,12,'left',600);
     g.strokeStyle=C.steel;ln(g,sx+3,G.ty,sx+3,G.by);ln(g,sx+sw2-3,G.ty,sx+sw2-3,G.by);
     tx(g,p>.83?'EN 81-72: 52 s ≤ 60 s — PASS':p>.66?'MẤT ĐIỆN → ARD 2,6 s':'Rung ≤ 15 milli-g · ồn ≤ 55 dB(A)',12,h*.06,p>.66&&p<.83?C.warn:C.pass,11)}
 };
 SC.plan=(g,w,h,t,Dm)=>{const p=t/Dm,x0=w*.12,y0=h*.08,W=w*.76,H=h*.56;g.strokeStyle=C.wire;g.lineWidth=1.5;g.setLineDash([]);g.strokeRect(x0,y0,W*seg(p,0,.1),2);
   if(p>.05){g.strokeRect(x0,y0,W,H)}g.lineWidth=1;
-  const Z=[['CẨU',.5,.45,0,'#FFAB00'],['KHO THÉP',.15,.2,.12,'#8A9099'],['LÁN TRẠI',.82,.2,.17,'#00B8D4'],['TRẠM BƠM',.15,.78,.22,'#9575CD'],['CỔNG VÀO',.95,.82,.27,'#00C853']];
-  Z.forEach(([n,a,b,s,c])=>{if(p<.1+s)return;const x=x0+W*a,y=y0+H*b;if(n==='CẨU'){g.strokeStyle='rgba(255,171,0,.5)';g.beginPath();g.arc(x,y,H*.45,0,7);g.stroke()}g.fillStyle=c;g.globalAlpha=.8;g.fillRect(x-26,y-9,52,18);g.globalAlpha=1;tx(g,n,x,y,'#04121A',9,'center',600)});
+  const Z=[['Cần cẩu',.5,.45,0,'#FFAB00'],['Kho thép',.15,.2,.12,'#8A9099'],['Lán trại',.82,.2,.17,'#00B8D4'],['Trạm bơm',.15,.78,.22,'#9575CD'],['Cổng',.95,.82,.27,'#00C853']];
+  Z.forEach(([n,a,b,s,c])=>{if(p<.1+s)return;const x=x0+W*a,y=y0+H*b;if(n==='Cần cẩu'){g.strokeStyle='rgba(255,171,0,.5)';g.beginPath();g.arc(x,y,H*.45,0,7);g.stroke()}g.fillStyle=c;g.globalAlpha=.8;g.fillRect(x-38,y-11,76,22);g.globalAlpha=1;tx(g,'§'+n,x,y,'#04121A',12,'center',600)});
   if(p>.33){const hr=Math.floor(seg(p,.33,.62)*24),peak=(hr>=6&&hr<9)||(hr>=16&&hr<20);tx(g,`${String(hr).padStart(2,'0')}:00 ${peak?'CẤM TẢI':'GIAO HÀNG JIT ±15′'}`,x0,y0-12+0,peak?C.fail:C.pass,11,'left',600);
     if(!peak)for(let i=0;i<4;i++){const q=((t/2600)+i/4)%1,pp=[[1,.82],[.75,.82],[.75,.25],[.3,.25],[.3,.82],[1,.82]];const L=pp.length-1,k=Math.floor(q*L),f=q*L-k;const x=x0+W*(pp[k][0]+(pp[k+1][0]-pp[k][0])*f),y=y0+H*(pp[k][1]+(pp[k+1][1]-pp[k][1])*f);g.fillStyle=C.gold;g.fillRect(x-5,y-3,10,6)}}
   const gy=y0+H+h*.06,bars=[[0,.18,1],[.15,.32,1],[.3,.5,1],[.45,.85,1],[.2,.4,0],[.55,.75,0],[.7,.95,1]];
   bars.forEach(([a,b,cr],i)=>{const y=gy+i*h*.042;g.fillStyle=cr?'#D50000':'#4675ED';g.globalAlpha=.85;g.fillRect(x0+W*a,y,W*(b-a)*seg(p,.62,.88),h*.025);g.globalAlpha=1});
   const dd=x0+W*seg(p,.62,.88);g.strokeStyle=C.gold;ln(g,dd,gy-4,dd,gy+h*.3);g.fillStyle=C.gold;g.save();g.translate(x0+W*.85,gy-6);g.rotate(Math.PI/4);g.fillRect(-4,-4,8,8);g.restore();
   if(p>.88)tx(g,'DCMA 14/14 ✓  CPLI 1,02',x0+W,gy-12,C.pass,11,'right',600)};
-SC.layers=(g,w,h,t,Dm,o)=>{const p=t/Dm;const L=o.mode==='wet'?[['Sàn BTCT','#6F6C67',.2],['Lớp lót primer','#5D5A55',.05],['PU lớp 1','#757575',.05],['PU lớp 2 (lưới góc)','#4D4D4D',.05],['PU lớp 3 · DFT 1,7 mm','#2E2E2E',.05],['Vữa bảo vệ','#8E8B86',.08],['Gạch lát','#C9C2B5',.06]]
-  :[['Đất nền K ≥ 0,95','#8D6E63',.2],['Bê tông lót B10 · 100 mm','#8E8B86',.09],['Màng HDPE 1,5 mm · mí 75/150','#111316',.05],['Gel tinh thể','#7FFFD4',.04],['Móng bè B45 · 4,0 m','#6E6A64',.32]];
+SC.layers=(g,w,h,t,Dm,o)=>{const p=t/Dm;const L=o.mode==='wet'?[['Sàn bê tông','#6F6C67',.2],['Lớp lót','#5D5A55',.05],['Chống thấm lớp 1','#757575',.05],['Chống thấm lớp 2','#4D4D4D',.05],['Chống thấm lớp 3','#2E2E2E',.05],['Vữa bảo vệ','#8E8B86',.08],['Gạch lát','#C9C2B5',.06]]
+  :[['Đất nền đầm chặt','#8D6E63',.2],['Bê tông lót 10 cm','#8E8B86',.09],['Màng chống thấm','#111316',.05],['Lớp tinh thể chống thấm','#7FFFD4',.04],['Móng bê tông dày 4 m','#6E6A64',.32]];
   const x0=w*.08,x1=w*.62,base=h*.86;let y=base;const n=L.length;
-  L.forEach(([nm,c,th],i)=>{const a=ez(seg(p,i/n*.55,(i+1)/n*.55));if(a<=0)return;const hh=h*th*1.25;g.fillStyle=c;g.globalAlpha=nm.startsWith('Gel')?.55:1;g.fillRect(x0,y-hh*a,(x1-x0),hh*a);g.globalAlpha=1;
-    if(a>.95){g.strokeStyle='rgba(255,255,255,.25)';ln(g,x1,y-hh/2,x1+18,y-hh/2);tx(g,nm,x1+22,y-hh/2,C.text,11)}y-=hh*a});
+  L.forEach(([nm,c,th],i)=>{const a=ez(seg(p,i/n*.55,(i+1)/n*.55));if(a<=0)return;const hh=h*th*1.25;g.fillStyle=c;g.globalAlpha=nm.startsWith('Lớp tinh')?.55:1;g.fillRect(x0,y-hh*a,(x1-x0),hh*a);g.globalAlpha=1;
+    if(a>.95){g.strokeStyle='rgba(255,255,255,.25)';ln(g,x1,y-hh/2,x1+18,y-hh/2);tx(g,'§'+nm,x1+22,y-hh/2,C.text,13)}y-=hh*a});
   if(o.mode==='wet'){if(p>.62){const wl=12*seg(p,.62,.72);g.fillStyle='rgba(79,195,247,.35)';g.fillRect(x0,y-wl,(x1-x0),wl);g.strokeStyle='rgba(225,245,254,.8)';g.beginPath();for(let x=x0;x<=x1;x+=6)g.lineTo(x,y-wl+Math.sin(x/14+t/300)*1.2);g.stroke();
       tx(g,`${String(Math.floor(seg(p,.62,.87)*48)).padStart(2,'0')}:00 / 48:00 · Δ mức nước ${(seg(p,.62,.87)*1).toFixed(1)} mm`,x0,y-wl-14,C.info,11,'left',600)}
     if(p>.87)tx(g,'FLOOD TEST PASSED · trần tầng dưới 12% DRY',w*.5,h*.06,C.pass,12,'center',600)}
@@ -324,7 +387,7 @@ SC.grid=(g,w,h,t,Dm,o)=>{const p=t/Dm,m=o.mode,x0=w*.08,y0=h*.1,W=w*.84,H=h*.78;
     tx(g,'ASTM E330 150% · E283 ≤ 0,3 l/s·m² · 720 Pa · ±h/150',x0,y0-8,C.pass,11)}
   if(m==='brick'){const rows=10,bw=W*.7/8,bh=H*.7/rows,xs=x0+W*.15;g.strokeStyle=C.laser;g.setLineDash([4,4]);ln(g,xs-10,y0+H*.95,xs+W*.7+10,y0+H*.95);g.setLineDash([]);
     const a=seg(p,.12,.54)*rows*8;let k=0;for(let r=0;r<rows;r++)for(let i=0;i<8;i++){if(k++>a)break;const off=r%2?bw/2:0;const x=xs+i*bw+off,y=y0+H*.95-(r+1)*bh;if(x+bw>xs+W*.7+bw/2)continue;g.fillStyle='#ECEAE4';g.fillRect(x+1,y+1,Math.min(bw-2,xs+W*.7-x),bh-2)}
-    if(p>.42){g.fillStyle='#E64A19';g.fillRect(xs,y0+H*.95-rows*bh-6,W*.7,5);tx(g,'Khe mềm 20 mm',xs+W*.7+8,y0+H*.95-rows*bh-4,'#FF8A65',10)}
+    if(p>.42){g.fillStyle='#E64A19';g.fillRect(xs,y0+H*.95-rows*bh-6,W*.7,5);tx(g,'§Khe mềm 2 cm',xs+W*.7+8,y0+H*.95-rows*bh-4,'#FF8A65',10)}
     if(p>.54&&p<.75){const sag=Math.sin((t%1200)/1200*Math.PI)*6;g.strokeStyle=C.wire;g.beginPath();g.moveTo(xs-20,y0+H*.95-rows*bh-10);g.quadraticCurveTo(xs+W*.35,y0+H*.95-rows*bh-10+sag*2,xs+W*.7+20,y0+H*.95-rows*bh-10);g.stroke();tx(g,'sàn võng 8 mm → tường không nứt',xs,y0+H*.95-rows*bh-22,C.wire,10)}
     if(p>.75){g.fillStyle='rgba(255,255,255,.5)';g.fillRect(xs,y0+H*.95-rows*bh,W*.7*seg(p,.75,.95),rows*bh);tx(g,'Phẳng 2,1 mm/2 m ✓',xs,y0+H*.98+6,C.pass,11,'left',600)}}};
 SC.heat=(g,w,h,t,Dm,o)=>{const p=t/Dm,nx=40,ny=o.mode==='lux'?24:14,x0=w*.06,y0=o.mode==='lux'?h*.1:h*.2,W=w*.88,H=o.mode==='lux'?h*.72:h*.46;
@@ -406,7 +469,7 @@ SC.network=(g,w,h,t,Dm,o)=>{const p=t/Dm;
     tx(g,`${cnt.toLocaleString('vi-VN')} tệp · PDF/A · IFC · COBie`,8,h*.06,C.wire,11,'left',600);if(p>.87)tx(g,'Danh mục hồ sơ 100% ✓',w*.92,h*.94,C.pass,11,'right',600)}};
 SC.status=(g,w,h,t,Dm,o)=>{const p=t/Dm;
   if(o.mode==='ist'){const pw=w/2,ph=h*.38;const P=[[0,0,'BÁO CHÁY'],[1,0,'QUẠT TĂNG ÁP'],[0,1,'THANG MÁY'],[1,1,'CỬA CHỐNG CHÁY']];
-    P.forEach(([i,j,n])=>{const x=i*pw+6,y=h*.06+j*(ph+6);g.strokeStyle='rgba(0,229,255,.3)';g.strokeRect(x,y,pw-12,ph);tx(g,n,x+8,y+12,C.mute,10);const cx=x+pw/2-6,cy=y+ph/2+6;
+    P.forEach(([i,j,n])=>{const x=i*pw+6,y=h*.06+j*(ph+6);g.strokeStyle='rgba(0,229,255,.3)';g.strokeRect(x,y,pw-12,ph);tx(g,'§'+n,x+8,y+14,C.text,13);const cx=x+pw/2-6,cy=y+ph/2+6;
       if(n==='BÁO CHÁY'){const on=p>.12&&Math.floor(t/250)%2;g.fillStyle=on?C.fail:'#4a1a1a';g.beginPath();g.arc(cx,cy,ph*.22,0,7);g.fill()}
       if(n==='QUẠT TĂNG ÁP'){const sp=seg(p,.3,.55);g.save();g.translate(cx,cy);g.rotate(t/1000*sp*30);g.fillStyle=C.purple;for(let k=0;k<4;k++){g.rotate(Math.PI/2);g.beginPath();g.ellipse(ph*.12,0,ph*.13,ph*.05,0,0,7);g.fill()}g.restore()}
       if(n==='THANG MÁY'){g.strokeStyle=C.wire;g.strokeRect(cx-14,y+20,28,ph-28);const q=ez(seg(p,.54,.75));g.fillStyle=C.gold;g.fillRect(cx-11,y+24+(ph-50)*q,22,18)}
@@ -417,95 +480,135 @@ SC.status=(g,w,h,t,Dm,o)=>{const p=t/Dm;
     tx(g,`Punch items: ${Math.round(1846*(1-seg(p,.25,.5)))} · loại A: 0`,x0,y0-14,C.text,11,'left',600);if(p>.7)tx(g,'APPROVED — 3/3 chữ ký số',w*.5,y0+H+h*.08,C.pass,14,'center',600)}
   if(o.mode==='key'){const cx=w*.5,cy=h*.48,s=Math.min(w,h)/180;const sh=seg(p,.87,1);g.save();g.translate(cx,cy);g.scale(Math.cos(t/700)*s,s);g.strokeStyle=C.gold;g.lineWidth=8;g.shadowColor=C.gold;g.shadowBlur=20*sh;
     g.beginPath();g.arc(-30,0,18,0,7);g.stroke();ln(g,-12,0,50,0);ln(g,40,0,40,14);ln(g,30,0,30,10);g.restore();g.shadowBlur=0;
-    const items=['O&M Manual','COBie 32 418 tài sản','Đào tạo 236 / 200 h','Quy trình bảo trì ✓'];items.forEach((n,i)=>{if(p>.1+i*.12)tx(g,'▸ '+n,w*.06,h*.12+i*h*.08,i===2&&p>.66?C.pass:C.text,11)});
+    const items=['Sổ tay vận hành','Hồ sơ 30.000 thiết bị','Đào tạo 236 giờ','Lịch bảo trì'];items.forEach((n,i)=>{if(p>.1+i*.12)tx(g,'§▸ '+n,w*.06,h*.12+i*h*.08,i===2&&p>.66?C.pass:C.text,11)});
     if(p>.87)tx(g,'BÀN GIAO QUYỀN VẬN HÀNH',cx,h*.9,C.gold,14,'center',600)}};
 
+SC.anatomy=(g,w,h,t)=>{const gy=h*.6,cx=w*.27,tw=w*.22,top=h*.06,p=(t%12000)/12000;
+  g.fillStyle='rgba(141,110,99,.25)';g.fillRect(0,gy,w,h-gy);g.strokeStyle=C.wire;g.lineWidth=1.5;ln(g,0,gy,w,gy);g.lineWidth=1;
+  for(let i=0;i<9;i++){const x=cx-tw/2+8+i*(tw-16)/8;g.fillStyle='#8E8B86';g.fillRect(x-3,gy+h*.12,6,h*.26)}
+  g.fillStyle='#6E6A64';g.fillRect(cx-tw/2-8,gy+h*.1,tw+16,h*.04);
+  g.fillStyle='rgba(0,229,255,.08)';g.fillRect(cx-tw/2,gy,tw,h*.1);for(let i=1;i<4;i++){g.strokeStyle=C.dim;ln(g,cx-tw/2,gy+i*h*.025,cx+tw/2,gy+i*h*.025)}
+  g.fillStyle='#263238';g.fillRect(cx-tw/2-12,gy,6,h*.16);g.fillRect(cx+tw/2+6,gy,6,h*.16);
+  const n=22;for(let i=0;i<n;i++){const y=gy-(gy-top)*(i+1)/n;g.fillStyle=i%2?'rgba(127,179,181,.35)':'rgba(127,179,181,.25)';g.fillRect(cx-tw/2,y,tw,(gy-top)/n-1)}
+  g.fillStyle='rgba(154,152,147,.75)';g.fillRect(cx-tw*.12,top,tw*.24,gy-top);
+  g.strokeStyle=C.wire;g.strokeRect(cx-tw/2,top,tw,gy-top);
+  const hi=Math.floor(p*7);const L=[['Mái',top+4],['Vỏ kính bên ngoài',top+(gy-top)*.3],['Lõi: thang máy, cầu thang',top+(gy-top)*.55],['Sàn các tầng',top+(gy-top)*.8],['Tầng hầm',gy+h*.05],['Móng (tấm bê tông dày)',gy+h*.12],['Cọc cắm sâu xuống đất',gy+h*.3]];
+  L.forEach(([s,y],i)=>{const on=i===hi;g.strokeStyle=on?C.gold:'rgba(220,233,238,.45)';g.lineWidth=on?2:1;ln(g,cx+tw/2+16,y,w*.49,y);g.lineWidth=1;g.fillStyle=on?C.gold:C.text;g.beginPath();g.arc(cx+(i===2?0:tw*.3),y,3,0,7);g.fill();tx(g,'§'+s,w*.5,y,on?C.gold:C.text,13,'left',on?600:400)});
+  tx(g,'§Mặt đất',8,gy-10,C.wire,12);tx(g,'§Dưới mặt đất',8,gy+16,'#D7CCC8',12)};
 /* ---------- Bộ điều khiển animation ---------- */
 function Player(cv,sl,ui){
   const g=cv.getContext('2d');const Dm=Math.max(...sl.tl.map(r=>r[1]),12000);let t=RM?Dm*.92:0,playing=!RM,last=0,raf=0;
   function size(){const r=cv.getBoundingClientRect(),d=Math.min(2,devicePixelRatio||1);cv.width=Math.max(1,r.width*d);cv.height=Math.max(1,r.height*d);g.setTransform(d,0,0,d,0,0);draw()}
   function draw(){const r=cv.getBoundingClientRect();g.clearRect(0,0,r.width,r.height);try{SC[sl.scene](g,r.width,r.height,t,Dm,sl.opts)}catch(e){console.error(e)}
     ui.tick(t,Dm)}
-  function loop(ts){if(!last)last=ts;t+=ts-last;last=ts;if(t>Dm+1500)t=0;draw();raf=playing?requestAnimationFrame(loop):0}
+  function loop(ts){if(!last)last=ts;t+=(ts-last)*SPEED;last=ts;if(t>Dm+1500)t=0;draw();raf=playing?requestAnimationFrame(loop):0}
   const ro=new ResizeObserver(size);ro.observe(cv);
   const api={play(){if(playing)return;playing=true;last=0;raf=requestAnimationFrame(loop);ui.state(true)},pause(){playing=false;cancelAnimationFrame(raf);ui.state(false)},
     toggle(){playing?api.pause():api.play()},seek(ms){t=cl(ms,0,Dm);last=0;draw()},destroy(){playing=false;cancelAnimationFrame(raf);ro.disconnect()},Dm};
   size();if(playing)raf=requestAnimationFrame(loop);ui.state(playing);return api;
 }
 
-/* ---------- Dựng giao diện ---------- */
+/* ---------- Dựng giao diện (bản cho người mới) ---------- */
+const PH={I:['Chuẩn bị','Tìm hiểu đất, thiết kế trên máy tính, lên kế hoạch. Chưa đào gì cả.'],
+  II:['Làm phần dưới mặt đất','Đào hố, làm cọc, làm móng và tầng hầm: phần không ai nhìn thấy nhưng gánh cả tòa nhà.'],
+  III:['Dựng khung tòa nhà','Đổ bê tông từng tầng lên tới mái, tạo thành bộ xương của tòa nhà.'],
+  IV:['Lắp đặt và hoàn thiện','Lắp kính, ống nước, điện, thang máy, hệ thống chữa cháy; xây tường, lát sàn.'],
+  V:['Kiểm tra và bàn giao','Thử tải, cảnh sát PCCC kiểm tra, ký giấy tờ, đào tạo người vận hành, khai trương.']};
+const ROMAN=['I','II','III','IV','V'];
 const partOf=r=>D.parts.find(p=>p.roman===r);
-const fmt=ms=>(ms/1000).toFixed(1).replace('.',',')+' s';
+const firstOf=r=>+partOf(r).range.split('–')[0].trim();
+const GLOSS=TOTAL+1, APPX=TOTAL+2, LAST=APPX;
 let TAB='tol';try{TAB=localStorage.getItem('bghkc-tab')||'tol'}catch(e){}
-const TABS=[['tol','Dung sai'],['std','Tiêu chuẩn'],['vis','Visual & camera'],['bim','Mã màu BIM'],['hold','Điểm dừng & điểm mù']];
+const TABS=[['tol','Dung sai'],['std','Tiêu chuẩn'],['vis','Góc máy'],['bim','Mã màu'],['hold','Điểm dừng']];
+
+function road(active){return `<nav class="road" aria-label="Hành trình 5 giai đoạn">${ROMAN.map((r,i)=>`<button type="button" class="${r===active?'on':''}" data-go="${firstOf(r)}"><b>${i+1}</b><span>${PH[r][0]}</span></button>`).join('')}</nav>`}
+function bindGo(root){root.querySelectorAll('[data-go]').forEach(b=>b.onclick=()=>go(+b.dataset.go))}
+function pager(i){const prev=i-1,next=i+1;const name=k=>k===0?'Trang đầu':k===GLOSS?'Từ điển xây dựng':k===APPX?'Phụ lục cho kỹ sư':`Bước ${k}: ${S[k-1].easy.title}`;
+  return `<nav class="pager">${prev>=0?`<button type="button" data-go="${prev}"><small>← Quay lại</small>${name(prev)}</button>`:'<span></span>'}${next<=LAST?`<button type="button" class="nx" data-go="${next}"><small>Tiếp theo →</small>${name(next)}</button>`:'<span></span>'}</nav>`}
 
 function renderSlide(sl){
-  const pt=partOf(sl.part);
-  main.innerHTML=`<article class="slide">
-  <div class="col">
-    <div class="stage"><canvas aria-label="Mô phỏng animation slide ${sl.n}" role="img"></canvas><div class="hud">${sl.code}</div><div class="hud2" id="hudT">0,0 s</div></div>
-    <div class="player"><button class="btn" id="pp" type="button">Tạm dừng</button><button class="btn" id="rs" type="button">Phát lại</button>
-      <div class="track" id="trk" role="slider" aria-label="Tua timeline" tabindex="0"><i id="trkI"></i></div><span class="tc" id="tc"></span></div>
-    <ul class="tl" id="tl">${sl.tl.map(r=>`<li data-t="${r[0]}"><span>${r[0].toLocaleString('vi-VN')}–${r[1].toLocaleString('vi-VN')} ms</span><div>${r[2]}</div></li>`).join('')}</ul>
-    ${sl.sw.length?`<div class="sw" aria-label="Bảng màu slide">${sl.sw.map(c=>`<i title="${c}" style="background:${c}"></i>`).join('')}</div>`:''}
+  const e=sl.easy,n=e.buoc.length;
+  main.innerHTML=`${road(sl.part)}<article class="easy">
+  <header class="ehead"><div class="num">Bước ${sl.n} / 40 · Giai đoạn ${ROMAN.indexOf(sl.part)+1}: ${PH[sl.part][0]}</div><h2>${e.title}</h2></header>
+  <div class="egrid">
+    <div class="col">
+      <div class="stage"><canvas role="img" aria-label="Hình động minh họa bước ${sl.n}"></canvas></div>
+      <div class="cap" aria-live="polite"><span id="capN">1/${n}</span><p id="capT">${e.buoc[0]}</p></div>
+      <div class="player"><button class="btn" id="pp" type="button">Tạm dừng</button><button class="btn" id="rs" type="button">Xem lại từ đầu</button><div class="track" id="trk" aria-hidden="true"><i id="trkI"></i></div></div>
+      <ol class="steps" id="steps">${e.buoc.map((b,i)=>`<li data-i="${i}"><b>${i+1}</b><span>${b}</span></li>`).join('')}</ol>
+    </div>
+    <div class="col">
+      <section class="box say"><h3>Nói đơn giản</h3><p>${e.noi}</p></section>
+      <section class="box like"><h3>Giống như…</h3><p>${e.giong}</p></section>
+      <section class="box warn"><h3>Nếu làm ẩu thì sao?</h3><p>${e.so_}</p></section>
+    </div>
   </div>
-  <div class="col">
-    <div class="eyebrow"><span class="tag">Phần ${sl.part} · ${pt.name}</span><span>${sl.dur}</span></div>
-    <div><div class="num">SLIDE ${String(sl.n).padStart(2,'0')} / 40</div><h2>${sl.title}</h2></div>
-    <ul class="bul">${sl.bul.map(b=>`<li>${b}</li>`).join('')}</ul>
+  <section><h3 class="sh">Con số đáng nhớ</h3><div class="nums">${e.so.map(([v,m])=>`<div class="ncard"><strong>${v}</strong><span>${m||''}</span></div>`).join('')}</div></section>
+  <section><h3 class="sh">Từ khó, giải thích dễ</h3><dl class="gl">${e.tu.map(([t,d])=>`<div><dt>${t}</dt><dd>${d||''}</dd></div>`).join('')}</dl></section>
+  <details class="pro" id="pro"><summary>Dành cho kỹ sư: thông số kỹ thuật chi tiết <em>(không cần đọc nếu bạn mới tìm hiểu)</em></summary>
+    <div class="proin"><p class="pmeta">${sl.code} · ${sl.title}</p><ul class="bul">${sl.bul.map(b=>`<li>${b}</li>`).join('')}</ul>
     <blockquote class="quote"><small>Lời thoại giảng viên</small>“${sl.quote}”</blockquote>
-    <div class="tabs" role="tablist">${TABS.map(([k,n])=>`<button class="tab" role="tab" type="button" id="tab-${k}" data-k="${k}" aria-selected="${k===TAB}">${n}</button>`).join('')}</div>
-    <div class="pane" id="pane" role="tabpanel"></div>
-  </div></article>`;
-  const pane=$('#pane'),setTab=k=>{TAB=k;try{localStorage.setItem('bghkc-tab',k)}catch(e){}document.querySelectorAll('.tab').forEach(b=>b.setAttribute('aria-selected',b.dataset.k===k));pane.innerHTML=sl[k];pane.setAttribute('aria-labelledby','tab-'+k)};
+    <div class="tabs" role="tablist">${TABS.map(([k,nm])=>`<button class="tab" role="tab" type="button" id="tab-${k}" data-k="${k}" aria-selected="${k===TAB}">${nm}</button>`).join('')}</div>
+    <div class="pane" id="pane" role="tabpanel"></div></div></details>
+  ${pager(sl.n)}</article>`;
+  const pane=$('#pane'),setTab=k=>{TAB=k;try{localStorage.setItem('bghkc-tab',k)}catch(err){}document.querySelectorAll('.tab').forEach(b=>b.setAttribute('aria-selected',b.dataset.k===k));pane.innerHTML=sl[k];pane.setAttribute('aria-labelledby','tab-'+k)};
   document.querySelectorAll('.tab').forEach(b=>b.onclick=()=>setTab(b.dataset.k));setTab(TAB);
-  const lis=[...document.querySelectorAll('#tl li')];
-  const ui={tick(t,Dm){$('#trkI').style.width=(cl(t/Dm)*100)+'%';$('#tc').textContent=fmt(Math.min(t,Dm))+' / '+fmt(Dm);$('#hudT').textContent=`T+${Math.floor(Math.min(t,Dm)).toLocaleString('vi-VN')} ms`;
-      sl.tl.forEach((r,i)=>{const on=t>=r[0]&&t<r[1];lis[i].classList.toggle('on',on);lis[i].classList.toggle('done',t>=r[1])})},
-    state(pl){$('#pp').textContent=pl?'Tạm dừng':'Phát'}};
+  const lis=[...document.querySelectorAll('#steps li')];let lastI=-1;
+  const ui={tick(t,Dm){const i=Math.min(n-1,Math.floor(cl(t/Dm,0,.9999)*n));$('#trkI').style.width=(cl(t/Dm)*100)+'%';
+      if(i!==lastI){lastI=i;$('#capN').textContent=`${i+1}/${n}`;$('#capT').textContent=e.buoc[i].replace(/&amp;/g,'&').replace(/&lt;/g,'<').replace(/&gt;/g,'>');lis.forEach((li,k)=>{li.classList.toggle('on',k===i);li.classList.toggle('done',k<i)})}},
+    state(pl){$('#pp').textContent=pl?'Tạm dừng':'Chạy tiếp'}};
   anim=Player(main.querySelector('canvas'),sl,ui);
   $('#pp').onclick=()=>anim.toggle();$('#rs').onclick=()=>{anim.seek(0);anim.play()};
-  lis.forEach(li=>li.onclick=()=>{anim.seek(+li.dataset.t+1)});
-  const trk=$('#trk');trk.onclick=e=>{const r=trk.getBoundingClientRect();anim.seek((e.clientX-r.left)/r.width*anim.Dm)};
+  lis.forEach(li=>li.onclick=()=>{anim.seek(+li.dataset.i/n*anim.Dm+1)});
+  const trk=$('#trk');trk.onclick=ev=>{const r=trk.getBoundingClientRect();anim.seek((ev.clientX-r.left)/r.width*anim.Dm)};
+  bindGo(main);
 }
 function renderCover(){
-  main.innerHTML=`<section class="cover"><div class="col" style="gap:20px">
-    <div class="eyebrow"><span class="tag">Khóa học chuyên đề cấp cao · 40 slide</span><span>Rev.02</span></div>
-    <h1>Bản giao hưởng <b>kết cấu</b></h1>
-    <p class="lede">Quy trình tổng thầu thi công toàn diện tòa nhà cao tầng từ A đến Z — từ móng cọc nhồi sâu đến nghiệm thu vận hành Smart Building. Mỗi slide là một hồ sơ đặc tả EPC: tiêu chuẩn, dung sai đến mi-li-mét, timeline animation đến mili-giây, mã màu BIM và điểm dừng kiểm soát.</p>
-    <div class="meta"><span class="chip">Chủ đầu tư</span><span class="chip">TVGS trưởng</span><span class="chip">Tổng thầu EPC</span><span class="chip">Nghiên cứu sinh</span></div>
-    <div class="meta"><span class="chip">Tháp 55 tầng · 220 m</span><span class="chip">5 tầng hầm</span><span class="chip">Móng bè 4,0 m</span><span class="chip">420 cọc D1500–D2000</span></div>
-    <div class="nav"><button class="btn pri" id="go1" type="button">Bắt đầu trình chiếu →</button><span class="tc">Phím ← → để chuyển slide · Space để phát/dừng</span></div>
-  </div><div class="col"><div class="stage"><canvas aria-hidden="true"></canvas></div>
-    <ul class="parts">${D.parts.map(p=>{const a=+p.range.split('–')[0].trim();return `<li><button type="button" data-go="${a}"><span class="r">${p.roman}</span><span>${p.name}</span><span class="s">Slide ${p.range}</span></button></li>`}).join('')}
-    <li><button type="button" data-go="41"><span class="r">PL</span><span>Phụ lục: 30 Hold Point &amp; danh mục hiệu chỉnh</span><span class="s">ITP</span></button></li></ul></div></section>`;
-  $('#go1').onclick=()=>go(1);main.querySelectorAll('[data-go]').forEach(b=>b.onclick=()=>go(+b.dataset.go));
-  anim=Player(main.querySelector('canvas'),{scene:'tower',opts:{mode:'lights'},tl:[[0,0,''],[0,12000,'']]},{tick(){},state(){}});
+  main.innerHTML=`<section class="cover"><div class="col" style="gap:18px">
+    <div class="num">40 bước · dành cho người chưa biết gì về xây dựng</div>
+    <h1>Xây một tòa nhà chọc trời <b>như thế nào?</b></h1>
+    <p class="lede">Từ lúc khoan thử mảnh đất trống đến ngày trao chìa khóa, một tòa nhà 55 tầng phải đi qua 40 bước. Mỗi trang dưới đây giải thích <strong>một bước</strong> bằng lời thường, có hình động chạy chậm, ví dụ đời thường và giải nghĩa từ khó.</p>
+    <div class="box say"><h3>Cách xem</h3><ol class="howto"><li>Xem hình động bên trái, đọc dòng chữ to bên dưới: nó cho biết đang làm gì.</li><li>Đọc 3 ô: <em>Nói đơn giản</em>, <em>Giống như…</em>, <em>Nếu làm ẩu thì sao?</em></li><li>Bấm <strong>Tiếp theo →</strong> ở cuối trang (hoặc phím →) để sang bước sau.</li></ol></div>
+    <div class="nav"><button class="btn pri big" type="button" data-go="1">Bắt đầu từ bước 1 →</button><button class="btn big" type="button" data-go="${GLOSS}">Từ điển xây dựng</button></div>
+  </div>
+  <div class="col"><div class="stage tall"><canvas role="img" aria-label="Các bộ phận chính của một tòa nhà cao tầng"></canvas></div><p class="hint">Các bộ phận chính của một tòa nhà cao tầng. Phần dưới mặt đất cũng lớn và quan trọng như phần bạn nhìn thấy.</p></div></section>
+  <h3 class="sh">5 giai đoạn của hành trình</h3>
+  <ol class="phases">${ROMAN.map((r,i)=>`<li><button type="button" data-go="${firstOf(r)}"><b>${i+1}</b><div><strong>${PH[r][0]}</strong><span>${PH[r][1]}</span></div><em>Bước ${partOf(r).range}</em></button></li>`).join('')}</ol>`;
+  bindGo(main);
+  anim=Player(main.querySelector('canvas'),{scene:'anatomy',opts:{},tl:[[0,12000,'']]},{tick(){},state(){}});
 }
-function renderAppx(){main.innerHTML=`<section class="col" style="gap:18px"><div class="eyebrow"><span class="tag">Phụ lục</span></div><h2>Bảng Hold Point toàn dự án &amp; danh mục hiệu chỉnh tiêu chuẩn</h2>
-  <div class="appx"><div class="pane">${D.itp}</div><div class="pane"><p><strong>Hiệu chỉnh so với bản nháp Rev.01</strong></p>${D.corr}</div></div></section>`;anim=null}
+function renderGloss(){
+  const all=[];S.forEach(s=>s.easy.tu.forEach(([t,d])=>all.push([t,d,s.n])));
+  all.sort((a,b)=>a[0].localeCompare(b[0],'vi'));
+  main.innerHTML=`<article class="easy"><header class="ehead"><div class="num">Tra cứu</div><h2>Từ điển xây dựng cho người mới</h2><p class="lede">${all.length} từ khó xuất hiện trong 40 bước, xếp theo vần chữ cái. Bấm "Xem bước" để mở trang giải thích từ đó.</p></header>
+    <dl class="gl dict">${all.map(([t,d,n])=>`<div><dt>${t}</dt><dd>${d}</dd><button type="button" class="lnk" data-go="${n}">Xem bước ${n}</button></div>`).join('')}</dl>${pager(GLOSS)}</article>`;
+  bindGo(main);anim=null;
+}
+function renderAppx(){main.innerHTML=`<article class="easy"><header class="ehead"><div class="num">Phụ lục cho kỹ sư</div><h2>Bảng điểm dừng kiểm soát và danh mục hiệu chỉnh tiêu chuẩn</h2></header>
+  <div class="appx"><div class="pane">${D.itp}</div><div class="pane"><p><strong>Hiệu chỉnh so với bản nháp Rev.01</strong></p>${D.corr}</div></div>${pager(APPX)}</article>`;bindGo(main);anim=null}
 
-function go(i){i=cl(i,0,TOTAL+1);if(anim)anim.destroy();anim=null;cur=i;
-  if(i===0)renderCover();else if(i>TOTAL)renderAppx();else renderSlide(S[i-1]);
-  $('#count').textContent=i===0?'BÌA':i>TOTAL?'PL':`${String(i).padStart(2,'0')}/${TOTAL}`;
-  $('#crumb').textContent=i>=1&&i<=TOTAL?`Phần ${S[i-1].part} — ${partOf(S[i-1].part).name}`:'Quy trình tổng thầu thi công nhà cao tầng A–Z';
-  $('#prog').style.width=(i/(TOTAL+1)*100)+'%';$('#bPrev').disabled=i===0;$('#bNext').disabled=i>TOTAL;
-  try{history.replaceState(null,'',i?'#s'+i:'#')}catch(e){}
+function go(i){i=cl(i,0,LAST);if(anim)anim.destroy();anim=null;cur=i;
+  if(i===0)renderCover();else if(i===GLOSS)renderGloss();else if(i===APPX)renderAppx();else renderSlide(S[i-1]);
+  $('#count').textContent=i===0?'Trang đầu':i===GLOSS?'Từ điển':i===APPX?'Phụ lục':`Bước ${i}/40`;
+  $('#crumb').textContent=i>=1&&i<=TOTAL?`Giai đoạn ${ROMAN.indexOf(S[i-1].part)+1}: ${PH[S[i-1].part][0]}`:'Xây tòa nhà chọc trời từ A đến Z';
+  $('#prog').style.width=(i/LAST*100)+'%';$('#bPrev').disabled=i===0;$('#bNext').disabled=i===LAST;
+  try{history.replaceState(null,'',i?'#s'+i:location.pathname+location.search)}catch(e){}
   window.scrollTo({top:0,behavior:'instant'});
   document.querySelectorAll('#idx button').forEach(b=>b.classList.toggle('cur',+b.dataset.go===i));
 }
 $('#bPrev').onclick=()=>go(cur-1);$('#bNext').onclick=()=>go(cur+1);
 const dlg=$('#dlg');$('#bIdx').onclick=()=>dlg.showModal();$('#dClose').onclick=()=>dlg.close();
 dlg.addEventListener('click',e=>{if(e.target===dlg)dlg.close()});
-$('#idx').innerHTML=D.parts.map(p=>`<h3>Phần ${p.roman} · ${p.name}</h3>`+S.filter(s=>s.part===p.roman).map(s=>`<button type="button" data-go="${s.n}"><span>${String(s.n).padStart(2,'0')}</span>${s.title}</button>`).join('')).join('')
-  +`<h3>Phụ lục</h3><button type="button" data-go="41"><span>PL</span>Hold Point &amp; hiệu chỉnh</button>`;
+$('#idx').innerHTML=`<button type="button" data-go="0"><span>—</span>Trang đầu: cách xem</button>`+ROMAN.map((r,k)=>`<h3>Giai đoạn ${k+1} · ${PH[r][0]}</h3>`+S.filter(s=>s.part===r).map(s=>`<button type="button" data-go="${s.n}"><span>${s.n}</span>${s.easy.title}</button>`).join('')).join('')
+  +`<h3>Tra cứu</h3><button type="button" data-go="${GLOSS}"><span>A–Z</span>Từ điển xây dựng</button><button type="button" data-go="${APPX}"><span>PL</span>Phụ lục cho kỹ sư</button>`;
 $('#idx').querySelectorAll('button').forEach(b=>b.onclick=()=>{dlg.close();go(+b.dataset.go)});
-addEventListener('keydown',e=>{if(dlg.open||e.target.closest('input,textarea'))return;
+addEventListener('keydown',e=>{if(dlg.open||e.target.closest('input,textarea,summary'))return;
   if(e.key==='ArrowRight'||e.key==='PageDown'){e.preventDefault();go(cur+1)}else if(e.key==='ArrowLeft'||e.key==='PageUp'){e.preventDefault();go(cur-1)}
   else if(e.key===' '&&anim&&cur>=1&&cur<=TOTAL&&!e.target.closest('button')){e.preventDefault();anim.toggle()}
   else if(e.key==='Home')go(0);else if(e.key==='End')go(TOTAL)});
 const fromHash=()=>{const m=/^#s(\d+)$/.exec(location.hash);return m?+m[1]:0};
 addEventListener('hashchange',()=>{const i=fromHash();if(i!==cur)go(i)});
 go(fromHash());
+
 })();
 </script>
