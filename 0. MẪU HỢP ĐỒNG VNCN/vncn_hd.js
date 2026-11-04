@@ -32,20 +32,19 @@ const S = {
 const TEXT_W = S.page.width - S.page.margin.left - S.page.margin.right; // 9026
 
 // ───────────────────────────── INLINE MARKUP ───────────────────────────
-// **đậm**  __nghiêng__  [ô cần điền → chữ đỏ]
+// **đậm**  __nghiêng__  [ô cần điền → chữ đỏ]  ==bôi vàng== (chỗ chờ số liệu)
 function runs(text, base = {}) {
   const out = [];
-  const re = /(\*\*.+?\*\*|__.+?__|\[[^\]]*\])/g;
+  const re = /(==.+?==|\*\*.+?\*\*|__.+?__|\[[^\]]*\])/g;
   let last = 0, m;
   const push = (t, o) => t && out.push(new TextRun({ text: t, font: S.font, size: S.body, ...base, ...o }));
   while ((m = re.exec(text))) {
     push(text.slice(last, m.index), {});
     const t = m[0];
-    if (t.startsWith('**')) {
-      // bold block may itself contain [placeholder]
-      const inner = t.slice(2, -2);
-      inner.split(/(\[[^\]]*\])/).forEach(p => p && push(p, p.startsWith('[') ? { bold: true, color: S.red } : { bold: true }));
-    } else if (t.startsWith('__')) push(t.slice(2, -2), { italics: true });
+    if (t.startsWith('==')) {
+      runs(t.slice(2, -2), { ...base, highlight: 'yellow' }).forEach(r => out.push(r));
+    } else if (t.startsWith('**')) runs(t.slice(2, -2), { ...base, bold: true }).forEach(r => out.push(r));
+    else if (t.startsWith('__')) runs(t.slice(2, -2), { ...base, italics: true }).forEach(r => out.push(r));
     else push(t, { color: S.red });
     last = m.index + t.length;
   }

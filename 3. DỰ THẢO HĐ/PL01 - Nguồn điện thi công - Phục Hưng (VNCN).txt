@@ -1,0 +1,57 @@
+tieu_de: PHỤ LỤC HỢP ĐỒNG SỐ 01
+so: PL01 – HĐ ==[…]==/2026/HĐXD/VNCNEC-PHC
+phu_de: __(Kèm theo Hợp đồng thi công xây dựng số ==[…]==/2026/HĐXD/VNCNEC-PHC ngày ==[…/…]==/2026)__
+phu_de: **Về việc: Cung cấp, thi công nguồn điện thi công theo Điều 4.1.3 Hợp đồng**
+phu_de: Dự án: Xây dựng Nhà ở cho lực lượng vũ trang công an nhân dân (nhà ở xã hội cho cán bộ, chiến sỹ công an) tại các ô đất C3-ODK3 và C3-ODK4 thuộc quy hoạch phân khu đô thị H2-4, Phường Yên Sở, Thành phố Hà Nội.
+ben: CÔNG TY CP ĐẦU TƯ XÂY DỰNG VÀ KỸ THUẬT VNCN E&C (Bên A)
+ben: CÔNG TY CỔ PHẦN XÂY DỰNG PHỤC HƯNG HOLDINGS (Bên B)
+cong_ty: VNCN E&C
+ban_quyen: Công ty CP Đầu tư Xây dựng và Kỹ thuật VNCN E&C
+---
+__Hà Nội, ngày ==[…]== tháng ==[…]== năm 2026__
+
+# Căn cứ
+(A) Căn cứ Bộ luật Dân sự số 91/2015/QH13 ngày 24/11/2015; Luật Xây dựng số 135/2025/QH15 ngày 10/12/2025; Luật Thương mại số 36/2005/QH11 ngày 14/6/2005 và các văn bản hướng dẫn thi hành;
+(B) Căn cứ Hợp đồng thi công xây dựng số ==[…]==/2026/HĐXD/VNCNEC-PHC ngày ==[…/…]==/2026 giữa Công ty CP Đầu tư Xây dựng và Kỹ thuật VNCN E&C và Công ty CP Xây dựng Phục Hưng Holdings (sau đây gọi là **"Hợp đồng"**), trong đó Điều 4.1.3 và Điều 12.2.10 quy định về việc cung cấp, thi công nguồn điện bảo đảm đủ công suất thi công Phần ngầm và phần thân, giá trị do Bên B tính toán và hai bên thống nhất;
+(C) Căn cứ nhu cầu và thỏa thuận của hai bên.
+
+Hôm nay, ngày ==[…]== tháng ==[…]== năm 2026, tại Công ty CP Đầu tư Xây dựng và Kỹ thuật VNCN E&C, chúng tôi gồm:
+
+# Giữa
+(1) **BÊN A: CÔNG TY CP ĐẦU TƯ XÂY DỰNG VÀ KỸ THUẬT VNCN E&C** (Mã số thuế: 0102261441), địa chỉ: Tầng 18, tòa nhà Vinaconex, số 34 Láng Hạ, phường Láng, Hà Nội; điện thoại: 024 37765888; fax: 024 37765999; số tài khoản: 0491001572401 tại ngân hàng Vietcombank - CN Thăng Long; đại diện: Ông **Nguyễn Duy Quang**, chức vụ: **Tổng Giám đốc**;
+    và
+(2) **BÊN B: CÔNG TY CỔ PHẦN XÂY DỰNG PHỤC HƯNG HOLDINGS** (Mã số thuế: 0101311315), địa chỉ: Tầng 1, Tháp A, Tòa nhà CT2 (The Light), Đường Tố Hữu, Phường Đại Mỗ, Thành phố Hà Nội; điện thoại: ==[…]==; số tài khoản: 125.00000.18 tại Ngân hàng TMCP ĐT và PT VN - CN Đông Đô; đại diện: Ông **Đặng Trọng Đức**, chức vụ: **Tổng Giám đốc**.
+
+## Nội dung công việc
+- Bên A cung cấp nguồn điện thi công hiện đang có trên Công trường (khoảng 250A) tại điểm đấu nối. Việc cung cấp nguồn điện này đáp ứng điều kiện về nguồn điện tại Điều 7.2 mục (iv) Hợp đồng.
+- Trong vòng 14 ngày kể từ ngày ký Hợp đồng, Bên B chủ động thi công cấp nguồn điện bổ sung 900A, kéo từ nguồn điện của Gamuda cho toàn bộ Dự án. Thời gian sử dụng nguồn điện này là ==[…] tháng== kể từ ngày đóng điện.
+- Trong thời gian sử dụng nguồn điện 900A, Bên B có trách nhiệm lập phương án và trình Bên A phê duyệt làm cơ sở để triển khai thi công nguồn điện và hệ thống điện bảo đảm đủ công suất để phục vụ thi công Phần ngầm và phần thân cho toàn bộ Dự án.
+- Bên A có trách nhiệm phê duyệt phương án cấp nguồn điện trước khi trả lại nguồn điện 900A cho Gamuda. Bên B trình phương án trong vòng ==30== ngày kể từ ngày đóng điện nguồn 900A; Bên A có ý kiến trong vòng 07 ngày kể từ ngày nhận đủ hồ sơ hợp lệ. Bên B phải hoàn thành thi công, đóng điện nguồn điện chính thức trước khi hết thời gian sử dụng nguồn điện 900A.
+
+## Giá trị phụ lục hợp đồng
+- Giá trị Phụ lục hợp đồng là: ==[…]== đồng (Bằng chữ: ==[…]== đồng). Giá trị trên ==[đã bao gồm / chưa bao gồm]== thuế giá trị gia tăng.
+- Giá trị, chi phí cấp nguồn điện thi công do Bên B tính toán và đề xuất trong vòng 07 ngày kể từ ngày ký Hợp đồng; Bên A phê duyệt chi phí trong vòng 05 ngày theo Điều 12.2.10 Hợp đồng.
+
+## Thanh toán
+- **Tạm ứng:** Bên A tạm ứng cho Bên B 50% giá trị Phụ lục hợp đồng trong vòng 03 ngày kể từ ngày ký Phụ lục này.
+- **Thanh toán:** Bên A thanh toán cho Bên B đến 95% giá trị Phụ lục hợp đồng (bao gồm cả khoản đã tạm ứng) trong vòng 03 ngày kể từ ngày đóng điện.
+
+## Trách nhiệm của các bên
+- **Bên B:**
+a) Cung cấp vật tư, thiết bị, nhân lực; thi công, đấu nối, vận hành, bảo trì hệ thống nguồn điện theo Phụ lục này; bảo đảm an toàn điện theo quy định của pháp luật;
+b) Thực hiện thủ tục đấu nối với đơn vị điện lực đối với nguồn điện chính thức; Bên A phối hợp cung cấp hồ sơ pháp lý của Dự án theo đề nghị của Bên B;
+c) Chịu trách nhiệm toàn bộ việc làm việc, thỏa thuận với Gamuda về đấu nối, sử dụng, thanh toán chi phí sử dụng điện và hoàn trả nguồn điện 900A; tuân thủ yêu cầu kỹ thuật, an toàn của Gamuda; bồi thường thiệt hại do Bên B gây ra đối với hệ thống điện của Gamuda; tháo dỡ, hoàn trả nguyên trạng điểm đấu nối khi trả lại nguồn điện;
+d) Bố trí nguồn điện dự phòng khi nguồn điện bị gián đoạn theo Điều 12.2.10 Hợp đồng;
+e) Bàn giao cho Bên A hồ sơ hoàn công, hồ sơ kỹ thuật của hệ thống nguồn điện chính thức.
+f) Công khai, cung cấp đầy đủ cho Bên A hồ sơ chi phí thực tế: hợp đồng, báo giá, hóa đơn GTGT, chứng từ thanh toán với nhà cung cấp, nhà thầu phụ, Gamuda; bảng kê nhân công, ca máy có xác nhận của Bên A tại hiện trường.
+- **Bên A:**
+a) Cung cấp nguồn điện hiện có theo Điều 1.1;
+b) Phê duyệt phương án, xác nhận chi phí thực tế và thanh toán đúng hạn theo Phụ lục này.
+
+## Điều khoản thi hành
+- Phụ lục này là bộ phận không tách rời của Hợp đồng. Những nội dung không quy định tại Phụ lục này thực hiện theo Hợp đồng.
+- Phụ lục có hiệu lực kể từ ngày ký và được lập thành 06 bản gốc có giá trị pháp lý như nhau, Bên A giữ 04 bản, Bên B giữ 02 bản.
+
+**ĐƯỢC KÝ KẾT** bởi đại diện có thẩm quyền của các bên:
+@ky ĐẠI DIỆN BÊN A | CÔNG TY CP ĐẦU TƯ XÂY DỰNG VÀ KỸ THUẬT VNCN E&C | Nguyễn Duy Quang | Tổng Giám đốc
+@ky ĐẠI DIỆN BÊN B | CÔNG TY CỔ PHẦN XÂY DỰNG PHỤC HƯNG HOLDINGS | Đặng Trọng Đức | Tổng Giám đốc

@@ -57,6 +57,7 @@ Phần nội dung:
 | `(A) …`  `(1) …`  `a) …`  `(i) …` | Đoạn có nhãn, thụt treo (mỗi 2 dấu cách đầu dòng thụt thêm một cấp) |
 | dòng thường | Đoạn văn, căn theo cột nội dung |
 | `**đậm**`, `__nghiêng__`, `[cần điền]` | Đậm, nghiêng, chữ đỏ |
+| `==…==` | Bôi vàng (chỗ chờ số liệu cụ thể, vd. `==[…]== đồng`) |
 | `\| a \| b \|` (thêm dòng `\|---\|` dưới tiêu đề) | Bảng có viền; không có dòng `---` thì là bảng 2 cột không viền |
 | `@ky TIÊU ĐỀ \| CÔNG TY \| Họ tên \| Chức vụ` | Khối chữ ký |
 | `@phu_luc PHỤ LỤC 01 – …` | Sang trang mới, tiêu đề phụ lục căn giữa |
