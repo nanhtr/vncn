@@ -1,0 +1,103 @@
+tieu_de: PHỤ LỤC HỢP ĐỒNG SỐ 03
+so: PL03 – HĐ 01/2026/HĐTTXL/LDIFT-TP & LD VNCNEC-VH
+phu_de: Của Hợp đồng Tổng thầu thi công xây dựng số 01/2026/HĐTTXL/LDIFT-TP & LD VNCNEC-VH
+phu_de: **SỬA ĐỔI, BỔ SUNG ĐIỀU KHOẢN THANH TOÁN HỢP ĐỒNG**
+ben: LIÊN DANH IFT – TIỀN PHONG (Bên A – Chủ đầu tư)
+ben: LIÊN DANH VNCN E&C – VIỆT HƯNG (Bên B – Tổng thầu)
+cong_ty: VNCN E&C
+ban_quyen: Công ty CP Đầu tư Xây dựng và Kỹ thuật VNCN E&C
+---
+**PHỤ LỤC HỢP ĐỒNG** này được lập ngày [..... tháng ..... năm 2026], tại [địa điểm ký].
+
+# Các căn cứ ký kết
+(A) Căn cứ Bộ luật Dân sự số 91/2015/QH13 ngày 24/11/2015;
+(B) Căn cứ Luật Xây dựng số 135/2025/QH15 ngày 10/12/2025;
+(C) Căn cứ Nghị định số 210/2026/NĐ-CP ngày 15/6/2026 của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của Luật Xây dựng về hợp đồng xây dựng;
+(D) Căn cứ Nghị định số 206/2026/NĐ-CP ngày 15/6/2026 của Chính phủ về quản lý chi phí đầu tư xây dựng;
+(E) Căn cứ Nghị định số 193/2026/NĐ-CP ngày 01/6/2026 của Chính phủ quy định về quyết toán vốn đầu tư dự án;
+(F) Căn cứ tình hình thực tế triển khai thi công, nhu cầu tạm ứng, thanh toán và quản trị dòng tiền thực hiện Dự án;
+(G) Căn cứ Hợp đồng Tổng thầu thi công xây dựng số 01/2026/HĐTTXL/LDIFT-TP & LD VNCNEC-VH ngày 16/7/2026 (sau đây gọi tắt là **"Hợp đồng gốc"**);
+(H) Căn cứ nhu cầu thực tế và thống nhất của các Bên.
+
+# Giữa
+**BÊN A (CHỦ ĐẦU TƯ): LIÊN DANH CÔNG TY CỔ PHẦN ĐẦU TƯ TÀI CHÍNH VÀ AN NINH CÔNG NGHỆ IFT VÀ CÔNG TY TNHH PHÁT TRIỂN TIỀN PHONG**, gồm:
+(1) **CÔNG TY CỔ PHẦN ĐẦU TƯ TÀI CHÍNH VÀ AN NINH CÔNG NGHỆ IFT** (Mã số thuế: 0104990961), có địa chỉ tại Tầng 3, Tòa nhà TSG Lotus Sài Đồng, số 190 phố Sài Đồng, phường Phúc Lợi, Thành phố Hà Nội; đại diện bởi Ông Nguyễn Hải Tùng – Tổng Giám đốc; số tài khoản 8691199999 tại Ngân hàng TMCP Đầu tư và Phát triển Việt Nam (BIDV) – Chi nhánh Ngọc Khánh;
+(2) **CÔNG TY TNHH PHÁT TRIỂN TIỀN PHONG** (Mã số thuế: 0109562141), có địa chỉ tại Tầng 2, Tòa nhà N03 – T4, Khu đô thị Ngoại Giao Đoàn, phường Xuân Đỉnh, Thành phố Hà Nội; đại diện bởi Ông Lê Tuấn Hùng – Giám đốc; số tài khoản 8670074232 tại BIDV – Chi nhánh Hà Đông;
+    và
+**BÊN B (TỔNG THẦU): LIÊN DANH CÔNG TY CỔ PHẦN ĐẦU TƯ XÂY DỰNG VÀ KỸ THUẬT VNCN E&C VÀ CÔNG TY CỔ PHẦN XÂY DỰNG HẠ TẦNG VÀ THƯƠNG MẠI VIỆT HƯNG**, gồm:
+(3) **CÔNG TY CỔ PHẦN ĐẦU TƯ XÂY DỰNG VÀ KỸ THUẬT VNCN E&C (VNCN E&C)** (Mã số thuế: 0102261441), có địa chỉ tại Tầng 18, Tòa nhà Vinaconex, số 34 Láng Hạ, phường Láng, Thành phố Hà Nội; điện thoại (04).3776.5888; đại diện bởi Ông Nguyễn Duy Quang – Tổng Giám đốc; số tài khoản 0491001572401 tại Ngân hàng Vietcombank – Chi nhánh Thăng Long;
+(4) **CÔNG TY CỔ PHẦN XÂY DỰNG HẠ TẦNG VÀ THƯƠNG MẠI VIỆT HƯNG** (Mã số thuế: 2301166820), có địa chỉ tại Lô E83 Khu đô thị Tân Hồng, Đông Ngàn, phường Từ Sơn, tỉnh Bắc Ninh; điện thoại 0355.876.679; đại diện bởi Ông Nguyễn Hồng Sơn – Tổng Giám đốc; số tài khoản 8696109999 tại BIDV – Chi nhánh Ngọc Khánh Hà Nội; 203 202 6688 tại Vietcombank – Chi nhánh Tây Hồ.
+
+Bên A và Bên B sau đây được gọi riêng là **"Bên"**, gọi chung là **"Các Bên"**. Các Bên thống nhất ký Phụ lục Hợp đồng số 03 với nội dung sau đây:
+
+# I. Sửa đổi, bổ sung Khoản 9.5 Điều 9 Hợp đồng gốc về tạm ứng và thanh toán
+
+## Phạm vi áp dụng
+- Phụ lục này thay thế toàn bộ phương thức tạm ứng, thanh toán theo mốc giai đoạn quy định tại Khoản 9.5 Điều 9 Hợp đồng gốc và áp dụng thống nhất cho các gói công việc thuộc Hợp đồng gốc.
+- Giá trị tạm ứng và thanh toán của mỗi gói công việc được xác định độc lập trên cơ sở dự toán của gói công việc đó; việc tạm ứng được thực hiện theo quy định tại Mục 2 Phụ lục này.
+
+## Tạm ứng
+- Điều khoản tạm ứng của Hợp đồng gốc (mức tạm ứng 30% giá trị Hợp đồng) không bị sửa đổi bởi Phụ lục này.
+- Trên cơ sở khoản tạm ứng đã được các Bên thống nhất và Bên A giải ngân theo Hợp đồng gốc kèm bảo lãnh tạm ứng, Phụ lục này phân bổ khoản tạm ứng đó cho từng gói công việc theo mức 20% (hai mươi phần trăm) giá trị dự toán của gói công việc, làm cơ sở xác định giá trị tạm ứng được khấu trừ khi thanh toán từng gói công việc.
+- Việc phân bổ quy định tại điểm 2.2 không làm phát sinh thêm nghĩa vụ tạm ứng của Bên A ngoài khoản tạm ứng đã giải ngân theo Hợp đồng gốc. Khoản tạm ứng đã được chuyển vào tài khoản chung của Liên danh Nhà thầu là nguồn bảo đảm thực hiện tạm ứng cho các gói công việc; thanh toán theo phiếu giá quy định tại Mục 3 được chi trả từ nguồn thanh toán mới của Bên A trên cơ sở khối lượng công việc hoàn thành được nghiệm thu, không sử dụng khoản tạm ứng đã cấp.
+- Hồ sơ đề nghị tạm ứng cho từng gói công việc gồm:
+a) Công văn đề nghị tạm ứng của Bên B (theo mẫu quy định), nêu rõ gói công việc, giá trị dự toán và giá trị tạm ứng đề nghị phân bổ;
+b) Dự toán của gói công việc (Dự toán tạm thời hoặc Dự toán chính thức) kèm văn bản chấp thuận của Bên A;
+c) Bảng phân bổ giá trị tạm ứng theo gói công việc;
+d) Bảo lãnh tạm ứng theo Hợp đồng gốc còn hiệu lực (bản sao y bản chính);
+đ) Kế hoạch sử dụng và cam kết sử dụng tiền tạm ứng đúng mục đích của gói công việc;
+e) Các hồ sơ, tài liệu khác theo quy định của Hợp đồng gốc và pháp luật có liên quan.
+- Trường hợp tạm ứng theo Dự toán tạm thời, giá trị tạm ứng được đối chiếu, điều chỉnh trên cơ sở Dự toán chính thức và được khấu trừ, bù trừ theo quy định tại Mục 8 Phụ lục này.
+- Các khoản tạm ứng đã thực hiện theo Hợp đồng gốc trước ngày Phụ lục này có hiệu lực được quy đổi tương ứng với mức phân bổ quy định tại điểm 2.2; phần chênh lệch được thu hồi, bù trừ trong quá trình thanh toán theo Phụ lục này.
+
+## Thanh toán theo phiếu giá
+- Thanh toán được thực hiện theo phiếu giá trên cơ sở khối lượng công việc hoàn thành thực tế. Bên B được lập hồ sơ thanh toán tại bất kỳ thời điểm nào, không phụ thuộc tháng, mốc hay giai đoạn thi công, khi giá trị khối lượng công việc hoàn thành thực tế của một phiếu giá đạt tối thiểu 10.000.000.000 (mười tỷ) đồng.
+- Khối lượng làm cơ sở lập phiếu giá phải được nghiệm thu, xác nhận khối lượng và được Bên A chấp thuận giá trị theo quy trình tại Mục 6 Phụ lục này; giá trị phiếu giá được xác định theo đơn giá của dự toán áp dụng.
+- Giá trị khối lượng công việc hoàn thành chưa đạt ngưỡng quy định tại điểm 3.1 được cộng dồn sang phiếu giá tiếp theo. Phiếu giá cuối cùng của gói công việc được lập không phụ thuộc ngưỡng quy định tại điểm 3.1.
+- Thu hồi tạm ứng: giá trị tạm ứng được khấu trừ tương ứng tại từng phiếu giá thanh toán cho đến khi thu hồi hết số tiền tạm ứng của gói công việc.
+
+## Mức thanh toán tối đa
+- Theo Dự toán chính thức: tổng giá trị tạm ứng và thanh toán lũy kế của mỗi gói công việc không vượt quá 95% (chín mươi lăm phần trăm) giá trị khối lượng công việc hoàn thành theo Dự toán chính thức; trong đó, sau khi trừ 20% giá trị đã tạm ứng, phần thanh toán theo các phiếu giá tối đa bằng 75% (bảy mươi lăm phần trăm). Phần 5% (năm phần trăm) còn lại được giữ lại để đối chiếu, khấu trừ, điều chỉnh và được thanh toán tại quyết toán Hợp đồng theo quy định tại Mục 8 Phụ lục này.
+- Theo Dự toán tạm thời: do Dự toán tạm thời chưa được thẩm tra, phê duyệt, tổng giá trị tạm ứng và thanh toán lũy kế của mỗi gói công việc không vượt quá 90% (chín mươi phần trăm) giá trị khối lượng công việc hoàn thành theo Dự toán tạm thời; trong đó, sau khi trừ 20% giá trị đã tạm ứng, phần thanh toán theo các phiếu giá tối đa bằng 70% (bảy mươi phần trăm).
+- Mức thanh toán quy định tại điểm 4.1 chỉ được áp dụng kể từ thời điểm Dự toán chính thức của gói công việc được thẩm tra, phê duyệt.
+
+## Dự toán áp dụng để tạm ứng, thanh toán
+- **Dự toán chính thức**: là dự toán xây dựng công trình, gói công việc được lập theo hồ sơ thiết kế đã được phê duyệt, được cơ quan, tổ chức có thẩm quyền thẩm tra và được người quyết định đầu tư hoặc Bên A phê duyệt theo quy định pháp luật về quản lý chi phí đầu tư xây dựng; là cơ sở cuối cùng để thanh toán, quyết toán.
+- **Dự toán tạm thời**: là dự toán do Bên B lập hoặc thuê tư vấn có năng lực, kinh nghiệm phù hợp lập trên cơ sở hồ sơ thiết kế đã được phê duyệt, tuân thủ định mức, đơn giá do cơ quan nhà nước có thẩm quyền công bố và được Bên A rà soát, chấp thuận bằng văn bản, nhưng chưa được thẩm tra, phê duyệt theo trình tự của Dự toán chính thức.
+- Dự toán tạm thời được sử dụng để xác định giá trị tạm ứng, giá trị khối lượng và giá trị thanh toán theo phiếu giá trong thời gian Dự toán chính thức chưa được phê duyệt; Dự toán tạm thời không là căn cứ xác định giá trị quyết toán cuối cùng.
+- Danh mục dự toán của các gói công việc được các Bên xác nhận, bổ sung vào Phụ lục này bằng văn bản trước khi thực hiện tạm ứng, thanh toán cho gói công việc đó.
+
+## Quy trình xác nhận khối lượng, giá trị và thời hạn thanh toán
+- **Chốt khối lượng**: ngày chốt khối lượng do Bên B đề xuất trên cơ sở khối lượng công việc hoàn thành thực tế, không quá ngày 25 (hai mươi lăm) của tháng gần nhất trước ngày trình hồ sơ thanh toán. Bên B phối hợp với Tư vấn giám sát, Tư vấn quản lý dự án kiểm tra, xác nhận khối lượng bằng Biên bản xác nhận khối lượng.
+- **Trình hồ sơ**: Bên B lập và gửi Bên A hồ sơ thanh toán trong thời hạn 05 (năm) ngày làm việc kể từ ngày chốt khối lượng.
+- **Xác nhận khối lượng và chấp thuận giá trị**: Bên A xác nhận khối lượng trong thời hạn 05 (năm) ngày làm việc và chấp thuận giá trị thanh toán trong thời hạn 07 (bảy) ngày làm việc kể từ ngày nhận được đầy đủ hồ sơ hợp lệ.
+- **Thời hạn thanh toán**: Bên A thanh toán cho Bên B trong thời hạn 07 (bảy) ngày làm việc kể từ ngày nhận được đầy đủ hồ sơ thanh toán hợp lệ, phù hợp với quy định pháp luật về thanh toán hợp đồng xây dựng (Điều 87 Luật Xây dựng số 135/2025/QH15; Điều 28 Nghị định số 210/2026/NĐ-CP).
+- Trường hợp hết thời hạn quy định tại điểm 6.3 và điểm 6.4 mà Bên A chưa có văn bản trả lời, giá trị đề nghị thanh toán trong hồ sơ của Bên B được tạm thanh toán theo tỷ lệ quy định tại Mục 4 Phụ lục này; phần chênh lệch (nếu có) được điều chỉnh tại phiếu giá thanh toán tiếp theo hoặc tại quyết toán Hợp đồng.
+
+## Hồ sơ thanh toán
+- Hồ sơ thanh toán theo phiếu giá do Bên B lập, gửi Bên A gồm:
+a) Công văn đề nghị thanh toán theo phiếu giá, nêu rõ giá trị khối lượng công việc hoàn thành, giá trị tạm ứng đã khấu trừ và giá trị đề nghị thanh toán;
+b) Bảng xác định khối lượng công việc hoàn thành và Bảng xác định giá trị khối lượng công việc hoàn thành theo đơn giá của dự toán áp dụng;
+c) Biên bản nghiệm thu công việc xây dựng, nghiệm thu bộ phận, hạng mục công trình theo quy định;
+d) Hồ sơ chất lượng công việc, gồm kết quả thí nghiệm vật liệu, kết quả thí nghiệm bê tông 07 (bảy) ngày tuổi và 28 (hai mươi tám) ngày tuổi đối với công tác bê tông theo quy định của Hợp đồng gốc, nhật ký thi công, bản vẽ hoàn công bộ phận và các tài liệu liên quan khác;
+đ) Hóa đơn giá trị gia tăng và chứng từ theo quy định pháp luật về thuế.
+- Số lượng hồ sơ thanh toán: 08 (tám) bộ theo quy định của Hợp đồng gốc.
+
+## Khi Dự toán chính thức được phê duyệt và quyết toán Hợp đồng
+- Kể từ khi Dự toán chính thức của gói công việc được thẩm tra, phê duyệt, các Bên đối chiếu khối lượng, đơn giá và giá trị đã tạm ứng, thanh toán; phần chênh lệch (tăng, giảm) giữa giá trị tạm ứng, thanh toán theo Dự toán tạm thời và giá trị theo Dự toán chính thức được khấu trừ, bù trừ tại các phiếu giá thanh toán tiếp theo.
+- Từ thời điểm Dự toán chính thức được phê duyệt, mức thanh toán được áp dụng theo quy định tại điểm 4.1 Phụ lục này.
+- Quyết toán Hợp đồng được thực hiện khi toàn bộ công việc của Hợp đồng đã hoàn thành và được nghiệm thu theo quy định: Bên A thanh toán 97% (chín mươi bảy phần trăm) giá trị quyết toán được phê duyệt, giữ lại 3% (ba phần trăm) giá trị quyết toán để bảo hành theo quy định của Hợp đồng gốc cho đến khi kết thúc thời hạn bảo hành công trình.
+- Việc lập, thẩm tra, phê duyệt quyết toán thực hiện theo Hợp đồng gốc và quy định pháp luật hiện hành về quyết toán vốn đầu tư (Điều 30 Nghị định số 210/2026/NĐ-CP; Nghị định số 193/2026/NĐ-CP).
+
+# II. Điều khoản thi hành
+(1) Phụ lục này là bộ phận không tách rời của Hợp đồng gốc; các quy định về tạm ứng, thanh toán theo đợt, mốc giai đoạn tại Khoản 9.5 Điều 9 Hợp đồng gốc được thay thế bởi quy định tại Phụ lục này kể từ ngày Phụ lục có hiệu lực, áp dụng cho toàn bộ thời gian thực hiện Hợp đồng.
+(2) Các nội dung khác của Hợp đồng gốc không bị sửa đổi bởi Phụ lục này vẫn giữ nguyên hiệu lực.
+(3) Khi Dự toán chính thức của từng gói công việc được phê duyệt, các Bên ký phụ lục bổ sung xác định giá trị của gói công việc đó làm cơ sở thanh toán và quyết toán.
+(4) Phụ lục này được lập thành 04 (bốn) bản có giá trị pháp lý như nhau, Bên A giữ 02 (hai) bản, Bên B giữ 02 (hai) bản để thực hiện.
+
+@trang_moi
+**ĐƯỢC KÝ KẾT** bởi đại diện có thẩm quyền của Các Bên:
+@ky ĐẠI DIỆN BÊN A (CHỦ ĐẦU TƯ) | CÔNG TY CỔ PHẦN ĐẦU TƯ TÀI CHÍNH VÀ AN NINH CÔNG NGHỆ IFT | Nguyễn Hải Tùng | Tổng Giám đốc
+@ky ĐẠI DIỆN BÊN A (CHỦ ĐẦU TƯ) | CÔNG TY TNHH PHÁT TRIỂN TIỀN PHONG | Lê Tuấn Hùng | Giám đốc
+@ky ĐẠI DIỆN BÊN B (TỔNG THẦU) | CÔNG TY CỔ PHẦN ĐẦU TƯ XÂY DỰNG VÀ KỸ THUẬT VNCN E&C | Nguyễn Duy Quang | Tổng Giám đốc
+@ky ĐẠI DIỆN BÊN B (TỔNG THẦU) | CÔNG TY CỔ PHẦN XÂY DỰNG HẠ TẦNG VÀ THƯƠNG MẠI VIỆT HƯNG | Nguyễn Hồng Sơn | Tổng Giám đốc

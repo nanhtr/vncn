@@ -1,0 +1,92 @@
+tieu_de: HỢP ĐỒNG [TÊN LOẠI HỢP ĐỒNG]
+so: [Số]/[Năm]/HĐ[Ký hiệu]/[Bên A]-VNCN
+phu_de: Gói thầu: [Tên gói thầu]
+phu_de: Dự án: [Tên dự án]
+ben: [TÊN BÊN A] (Bên A – [Vai trò])
+ben: CÔNG TY CỔ PHẦN ĐẦU TƯ XÂY DỰNG VÀ KỸ THUẬT VNCN E&C (Bên B – [Vai trò])
+cong_ty: VNCN E&C
+ban_quyen: Công ty CP Đầu tư Xây dựng và Kỹ thuật VNCN E&C
+---
+**HỢP ĐỒNG** này được lập ngày [..... tháng ..... năm .....], tại [địa điểm ký].
+
+# Các căn cứ ký kết
+(A) Căn cứ Bộ luật Dân sự số 91/2015/QH13 ngày 24/11/2015;
+(B) Căn cứ Luật Xây dựng [số, ngày];
+(C) Căn cứ [Nghị định về hợp đồng xây dựng đang có hiệu lực];
+(D) Căn cứ [Quyết định phê duyệt / kết quả lựa chọn nhà thầu / văn bản liên quan];
+(E) Căn cứ nhu cầu và khả năng của Các Bên.
+
+# Giữa
+(1) **[TÊN BÊN A]** (Mã số thuế: [.....]), có địa chỉ tại [.....]; đại diện bởi [Ông/Bà .....] – [Chức vụ]; số tài khoản [.....] tại [Ngân hàng .....] (sau đây gọi là **"Bên A"**);
+    và
+(2) **CÔNG TY CỔ PHẦN ĐẦU TƯ XÂY DỰNG VÀ KỸ THUẬT VNCN E&C (VNCN E&C)** (Mã số thuế: 0102261441), có địa chỉ tại Tầng 18, Tòa nhà Vinaconex, số 34 Láng Hạ, phường Láng, Thành phố Hà Nội; điện thoại (04).3776.5888; đại diện bởi Ông Nguyễn Duy Quang – Tổng Giám đốc; số tài khoản 0491001572401 tại Ngân hàng Vietcombank – Chi nhánh Thăng Long (sau đây gọi là **"Bên B"**).
+
+Bên A và Bên B sau đây được gọi riêng là **"Bên"**, gọi chung là **"Các Bên"**.
+
+# Các Bên thỏa thuận như sau
+
+## Định nghĩa và giải thích
+- Trong Hợp đồng này, trừ khi ngữ cảnh có yêu cầu khác:
+**"Hợp đồng"** nghĩa là văn bản này, các Phụ lục và mọi tài liệu đính kèm.
+**"Công việc"** nghĩa là [mô tả].
+**"Ngày làm việc"** nghĩa là các ngày trừ thứ Bảy, Chủ nhật và ngày nghỉ lễ, Tết theo quy định của pháp luật Việt Nam.
+- Tiêu đề các Điều chỉ để thuận tiện tham chiếu, không ảnh hưởng đến việc giải thích Hợp đồng.
+
+## Phạm vi công việc
+- Bên A giao và Bên B nhận thực hiện [phạm vi công việc] theo Phụ lục 01 của Hợp đồng.
+- [Nội dung khác].
+
+## Giá hợp đồng
+- Giá hợp đồng là [.....] đồng (Bằng chữ: [.....]), đã bao gồm thuế giá trị gia tăng.
+- Loại giá hợp đồng: [trọn gói / đơn giá cố định / đơn giá điều chỉnh].
+
+## Tạm ứng và thanh toán
+- Tạm ứng: [tỷ lệ, điều kiện, bảo lãnh tạm ứng].
+- Thanh toán: [phương thức, thời hạn, hồ sơ thanh toán] gồm:
+a) [Hồ sơ 1];
+b) [Hồ sơ 2];
+c) [Hồ sơ 3].
+
+## Thời gian thực hiện
+- Thời gian thực hiện Hợp đồng là [.....] ngày kể từ ngày [.....].
+
+## Quyền và nghĩa vụ của Bên A
+- [Quyền và nghĩa vụ].
+
+## Quyền và nghĩa vụ của Bên B
+- [Quyền và nghĩa vụ].
+
+## Nghiệm thu, bàn giao
+- [Nội dung].
+
+## Bảo hành
+- [Thời hạn, mức tiền bảo hành, phương thức].
+
+## Phạt vi phạm và bồi thường thiệt hại
+- [Mức phạt, giới hạn phạt, bồi thường].
+
+## Bất khả kháng
+- [Nội dung].
+
+## Tạm dừng và chấm dứt Hợp đồng
+- [Nội dung].
+
+## Giải quyết tranh chấp
+- Các tranh chấp phát sinh trước hết được giải quyết bằng thương lượng, hòa giải trong thời hạn [30] ngày.
+- Trường hợp không giải quyết được, tranh chấp được giải quyết tại [Tòa án có thẩm quyền / Trung tâm Trọng tài Quốc tế Việt Nam (VIAC)].
+
+## Điều khoản chung
+- Hợp đồng có hiệu lực kể từ ngày ký.
+- Mọi sửa đổi, bổ sung Hợp đồng phải được lập thành văn bản (Phụ lục) có chữ ký của đại diện có thẩm quyền của Các Bên.
+- Hợp đồng được lập thành [.....] bản có giá trị pháp lý như nhau, mỗi Bên giữ [.....] bản.
+
+**ĐƯỢC KÝ KẾT** bởi đại diện có thẩm quyền của Các Bên:
+@ky ĐẠI DIỆN BÊN A | [TÊN BÊN A] | [Họ và tên] | [Chức vụ]
+@ky ĐẠI DIỆN BÊN B | CÔNG TY CỔ PHẦN ĐẦU TƯ XÂY DỰNG VÀ KỸ THUẬT VNCN E&C | Nguyễn Duy Quang | Tổng Giám đốc
+
+@phu_luc PHỤ LỤC 01 – PHẠM VI CÔNG VIỆC VÀ BẢNG GIÁ
+| STT | Nội dung công việc | Đơn vị | Khối lượng | Đơn giá (đồng) | Thành tiền (đồng) |
+|---|---|---|---|---|---|
+| 1 | [.....] | [.....] | [.....] | [.....] | [.....] |
+| 2 | [.....] | [.....] | [.....] | [.....] | [.....] |
+| | **Tổng cộng** | | | | **[.....]** |

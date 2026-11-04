@@ -1,0 +1,36 @@
+tieu_de: PHỤ LỤC HỢP ĐỒNG SỐ [..]
+so: PL[..] – HĐ [Số hợp đồng gốc]
+phu_de: Của Hợp đồng [tên hợp đồng gốc] số [.....] ngày [.....]
+phu_de: **[NỘI DUNG SỬA ĐỔI, BỔ SUNG]**
+ben: [TÊN BÊN A] (Bên A – [Vai trò])
+ben: CÔNG TY CỔ PHẦN ĐẦU TƯ XÂY DỰNG VÀ KỸ THUẬT VNCN E&C (Bên B – [Vai trò])
+cong_ty: VNCN E&C
+ban_quyen: Công ty CP Đầu tư Xây dựng và Kỹ thuật VNCN E&C
+---
+**PHỤ LỤC HỢP ĐỒNG** này được lập ngày [..... tháng ..... năm .....], tại [địa điểm ký].
+
+# Các căn cứ ký kết
+(A) Căn cứ Bộ luật Dân sự số 91/2015/QH13 ngày 24/11/2015;
+(B) Căn cứ [văn bản pháp luật liên quan];
+(C) Căn cứ Hợp đồng [tên] số [.....] ngày [.....] (sau đây gọi tắt là **"Hợp đồng gốc"**);
+(D) Căn cứ nhu cầu thực tế và thống nhất của Các Bên.
+
+# Giữa
+(1) **[TÊN BÊN A]** (Mã số thuế: [.....]), có địa chỉ tại [.....]; đại diện bởi [Ông/Bà .....] – [Chức vụ] (**"Bên A"**);
+    và
+(2) **CÔNG TY CỔ PHẦN ĐẦU TƯ XÂY DỰNG VÀ KỸ THUẬT VNCN E&C (VNCN E&C)** (Mã số thuế: 0102261441), có địa chỉ tại Tầng 18, Tòa nhà Vinaconex, số 34 Láng Hạ, phường Láng, Thành phố Hà Nội; đại diện bởi Ông Nguyễn Duy Quang – Tổng Giám đốc (**"Bên B"**).
+
+Các Bên thống nhất ký Phụ lục này với nội dung sau đây:
+
+## Sửa đổi, bổ sung [Khoản ..., Điều ...] Hợp đồng gốc
+- [Nội dung sửa đổi].
+- [Nội dung sửa đổi].
+
+## Điều khoản thi hành
+- Phụ lục này là bộ phận không tách rời của Hợp đồng gốc và có hiệu lực kể từ ngày ký.
+- Các nội dung khác của Hợp đồng gốc không bị sửa đổi bởi Phụ lục này vẫn giữ nguyên hiệu lực.
+- Phụ lục này được lập thành [.....] bản có giá trị pháp lý như nhau, mỗi Bên giữ [.....] bản.
+
+**ĐƯỢC KÝ KẾT** bởi đại diện có thẩm quyền của Các Bên:
+@ky ĐẠI DIỆN BÊN A | [TÊN BÊN A] | [Họ và tên] | [Chức vụ]
+@ky ĐẠI DIỆN BÊN B | CÔNG TY CỔ PHẦN ĐẦU TƯ XÂY DỰNG VÀ KỸ THUẬT VNCN E&C | Nguyễn Duy Quang | Tổng Giám đốc
