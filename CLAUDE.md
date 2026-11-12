@@ -23,9 +23,9 @@ Người dùng là cán bộ BCH Yên Sở (VNCN E&C), xưng "tao – mày". Lã
 - Chủ trương 10/10: không thể hiện bentonite, bỏ GPS, Bên A không làm đường tạm.
 - Điểm yếu đã báo cáo (12/10): bỏ cam kết bồi hoàn 8.3(h), xóa định nghĩa Chất Thải/Điểm Chuyển Giao/Chứng Từ Đổ Thải Hợp Lệ, không còn cách tính khối lượng mùn khoan, bảo hiểm bên thứ ba chỉ 5.000.000 đ/vụ, hệ số quy đổi chưa chốt.
 - Phụ lục 01 đường công vụ (11/2026): trạc mua mới 2.748 m³ × 200.000 đ/m³ = 549.600.000 đ (TTr 10112026-01, nội bộ); tận dụng 1.377 m³ theo mục 13; bùn nền đường theo mục 5–6.
-- Tờ trình là văn bản nội bộ: không đưa số liệu tờ trình vào phụ lục. Khối lượng, đơn giá, vị trí chi tiết để ở phụ lục chi tiết kèm theo (gọi là "phụ lục bổ sung kèm theo", không đặt tên/số riêng; "Phụ lục A – Giá hợp đồng" chỉ dùng cho Phụ lục A của HĐ gốc).
+- Khi rà soát phụ lục/hợp đồng do người khác soạn: **giữ nguyên mọi số liệu, ngày, giá trị của bản gốc người dùng gửi**; chỉ sửa chỗ sai/bất lợi cho Bên A. Không lấy số liệu tờ trình (nội bộ) đưa vào. Chỗ nào cần dẫn sang bảng chi tiết thì ghi "phụ lục bổ sung" (không đặt tên/số riêng); "Phụ lục A – Giá hợp đồng" chỉ dùng cho Phụ lục A của HĐ gốc.
 - Không xóa bớt trách nhiệm Bên B cho ngắn: rút gọn câu chữ nhưng phải giữ đủ nghĩa vụ chuyên môn của công việc.
 
 ## Hồ sơ đã làm (thư mục `04. HOÀNG MINH - ĐÀO ĐẤT` và `3. DỰ THẢO HĐ`, `4. TỜ TRÌNH`)
 - R10.2, R11 (track changes trên bản AQ), báo cáo rà soát 3 dự thảo (10/10), so sánh bản chốt ký với bản AQ và báo cáo (12/10).
-- PL01 đường công vụ: R1 track changes + báo cáo rà soát (12/11, báo cáo theo R1); R2, R3, R4 track changes (12/11); R4 là bản dùng (như R3, đổi "Phụ lục 01A" thành "phụ lục bổ sung") (bám đoạn cuối khoản 8.5: khối lượng theo kích thước hình học, đơn giá trung chuyển nội bộ tại Phụ lục A – Giá hợp đồng; trạc mua bổ sung là phát sinh 6.1(g) theo phụ lục bổ sung).
+- PL01 đường công vụ: R1–R4 (12/11) là các bản thử; **R5 là bản dùng** – track changes trên dự thảo 11/11, giữ nguyên số liệu gốc (593.568.000 đ, 1.377 m³ × 60.000 đ, các mốc 5 ngày, 13/11, 14/11, 16/11), sửa căn cứ sang HĐKT 39/2026, bám đoạn cuối khoản 8.5, trạc mua bổ sung là phát sinh 6.1(g), bổ sung trách nhiệm Bên B (i)–(n).
