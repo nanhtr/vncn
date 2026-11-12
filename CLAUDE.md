@@ -28,5 +28,5 @@ Người dùng là cán bộ BCH Yên Sở (VNCN E&C), xưng "tao – mày". Lã
 
 ## Hồ sơ đã làm (thư mục `04. HOÀNG MINH - ĐÀO ĐẤT` và `3. DỰ THẢO HĐ`, `4. TỜ TRÌNH`)
 - R10.2, R11 (track changes trên bản AQ), báo cáo rà soát 3 dự thảo (10/10), so sánh bản chốt ký với bản AQ và báo cáo (12/10).
-- PL01 đường công vụ: R1–R5 là bản thử; **BẢN CUỐI (12/11) là bản dùng** (track changes + bản sạch, 4 trang): giữ số liệu gốc (593.568.000 đ đã gồm VAT 8%, 1.377 m³ × 60.000 đ, 13/11, 14/11, 05 ngày, 16/11), bám đoạn cuối khoản 8.5, trạc mua bổ sung là phát sinh 6.1(g), định nghĩa "Đường công vụ", trách nhiệm Bên B (a)–(j), Bên A (a)–(d).
+- PL01 đường công vụ: **FINAL do người dùng chốt ngày 12/11/2026** (file "12112026 - PL01 - ĐƯỜNG CÔNG VỤ - HOÀNG MINH (FINAL)"), kèm bản track changes so với dự thảo 11/11 để gửi Hoàng Minh. Các bản R1–R5, BẢN CUỐI là bản trung gian.
 - Văn phong: câu ngắn, đúng thuật ngữ pháp lý, không lặp lại nội dung đã có trong HĐ gốc (dẫn chiếu điều khoản thay vì chép lại); kiểm tra định dạng kế thừa (tô màu, in đậm) sau khi sửa.
