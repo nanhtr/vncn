@@ -22,8 +22,10 @@ Người dùng là cán bộ BCH Yên Sở (VNCN E&C), xưng "tao – mày". Lã
 - 8.5(e): Bên A không làm đường tạm cho HM; đoạn cuối 8.5: Bên A được yêu cầu HM làm đường tạm bằng vật liệu có sẵn cho đơn vị khác, giá theo trung chuyển nội bộ. 6.1(g): công việc phát sinh phải ký phụ lục trước, làm trước không được thanh toán.
 - Chủ trương 10/10: không thể hiện bentonite, bỏ GPS, Bên A không làm đường tạm.
 - Điểm yếu đã báo cáo (12/10): bỏ cam kết bồi hoàn 8.3(h), xóa định nghĩa Chất Thải/Điểm Chuyển Giao/Chứng Từ Đổ Thải Hợp Lệ, không còn cách tính khối lượng mùn khoan, bảo hiểm bên thứ ba chỉ 5.000.000 đ/vụ, hệ số quy đổi chưa chốt.
-- Phụ lục 01 đường công vụ (11/2026): trạc mua mới 2.748 m³ × 200.000 đ/m³ = 549.600.000 đ (TTr 10112026-01); tận dụng 1.377 m³ theo mục 13; bùn nền đường theo mục 5–6.
+- Phụ lục 01 đường công vụ (11/2026): trạc mua mới 2.748 m³ × 200.000 đ/m³ = 549.600.000 đ (TTr 10112026-01, nội bộ); tận dụng 1.377 m³ theo mục 13; bùn nền đường theo mục 5–6.
+- Tờ trình là văn bản nội bộ: không đưa số liệu tờ trình vào phụ lục. Khối lượng, đơn giá, vị trí chi tiết để ở phụ lục chi tiết kèm theo (đặt tên "Phụ lục 01A" để không trùng Phụ lục A của HĐ gốc).
+- Không xóa bớt trách nhiệm Bên B cho ngắn: rút gọn câu chữ nhưng phải giữ đủ nghĩa vụ chuyên môn của công việc.
 
 ## Hồ sơ đã làm (thư mục `04. HOÀNG MINH - ĐÀO ĐẤT` và `3. DỰ THẢO HĐ`, `4. TỜ TRÌNH`)
 - R10.2, R11 (track changes trên bản AQ), báo cáo rà soát 3 dự thảo (10/10), so sánh bản chốt ký với bản AQ và báo cáo (12/10).
-- PL01 đường công vụ: track changes và báo cáo rà soát (12/11).
+- PL01 đường công vụ: R1 track changes + báo cáo rà soát (12/11, báo cáo theo R1); R2 track changes (12/11) là bản dùng.
