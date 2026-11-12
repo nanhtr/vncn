@@ -28,5 +28,5 @@ Người dùng là cán bộ BCH Yên Sở (VNCN E&C), xưng "tao – mày". Lã
 
 ## Hồ sơ đã làm (thư mục `04. HOÀNG MINH - ĐÀO ĐẤT` và `3. DỰ THẢO HĐ`, `4. TỜ TRÌNH`)
 - R10.2, R11 (track changes trên bản AQ), báo cáo rà soát 3 dự thảo (10/10), so sánh bản chốt ký với bản AQ và báo cáo (12/10).
-- PL01 đường công vụ: **FINAL do người dùng chốt ngày 12/11/2026** (file "12112026 - PL01 - ĐƯỜNG CÔNG VỤ - HOÀNG MINH (FINAL)"), kèm bản track changes so với dự thảo 11/11 để gửi Hoàng Minh. Các bản R1–R5, BẢN CUỐI là bản trung gian.
+- PL01 đường công vụ: **FINAL do người dùng chốt ngày 12/11/2026** (file "12112026 - PL01 - ĐƯỜNG CÔNG VỤ - HOÀNG MINH (FINAL)"), kèm bản track changes so với dự thảo 11/11 để gửi Hoàng Minh. Theo chỉ thị lãnh đạo, Điều 2 chia 2 phần: 2.1 trạc mua bổ sung (phát sinh 6.1(g), 593.568.000 đ gồm VAT), 2.2 đắp bằng vật liệu có sẵn (1.377 m³ × 60.000 đ, trong giá trị HĐ). Các bản R1–R5, BẢN CUỐI là bản trung gian.
 - Văn phong: câu ngắn, đúng thuật ngữ pháp lý, không lặp lại nội dung đã có trong HĐ gốc (dẫn chiếu điều khoản thay vì chép lại); kiểm tra định dạng kế thừa (tô màu, in đậm) sau khi sửa.
