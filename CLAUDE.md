@@ -28,4 +28,4 @@ Người dùng là cán bộ BCH Yên Sở (VNCN E&C), xưng "tao – mày". Lã
 
 ## Hồ sơ đã làm (thư mục `04. HOÀNG MINH - ĐÀO ĐẤT` và `3. DỰ THẢO HĐ`, `4. TỜ TRÌNH`)
 - R10.2, R11 (track changes trên bản AQ), báo cáo rà soát 3 dự thảo (10/10), so sánh bản chốt ký với bản AQ và báo cáo (12/10).
-- PL01 đường công vụ: R1 track changes + báo cáo rà soát (12/11, báo cáo theo R1); R2 track changes (12/11) là bản dùng.
+- PL01 đường công vụ: R1 track changes + báo cáo rà soát (12/11, báo cáo theo R1); R2, R3 track changes (12/11); R3 là bản dùng (bám đoạn cuối khoản 8.5: khối lượng theo kích thước hình học, đơn giá trung chuyển nội bộ tại Phụ lục A – Giá hợp đồng; trạc mua bổ sung là phát sinh 6.1(g) theo Phụ lục 01A).
